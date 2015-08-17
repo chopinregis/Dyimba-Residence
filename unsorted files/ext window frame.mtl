@@ -1,0 +1,11 @@
+# Blender MTL File: 'DYIMBA1 freecad expt.blend'
+# Material Count: 1
+
+newmtl Door_Frame
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.639282 0.273532 0.064176
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
