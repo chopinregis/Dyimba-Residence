@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+	width="420mm"
+	height="297mm"
+	viewBox="0 0 420 297">
+	<!-- Working space 0 0 420 297 -->
+	<defs>
+		<radialGradient
+			id="radialGradient3661"
+			gradientUnits="userSpaceOnUse"
+			cy="29.149"
+			cx="282.65"
+			gradientTransform="matrix(.14777 .23089 -.24680 .15795 -26.318 -62.617)"
+			r="19.571">
+				<stop stop-color="#71b2f8" offset="0"/>
+				<stop stop-color="#002795" offset="1"/>
+		</radialGradient>
+		<radialGradient
+			id="radialGradient3817"
+			gradientUnits="userSpaceOnUse"
+			cy="33.9"
+			cx="270.58"
+			gradientTransform="matrix(.26631 .065024 -.17931 .73438 -60.668 -36.938)"
+			r="19.571">
+				<stop stop-color="#ff6d0f" offset="0"/>
+				<stop stop-color="#ff1000" offset="1"/>
+		</radialGradient>
+	</defs>
+	<!-- Set display:none to hide FreeCAD Logo -->
+	<g
+		style="display:inline"
+		id="freecad-logo"
+		transform="translate(386, 264) scale(1.5)"
+		fill-rule="evenodd"
+		stroke-width=".45621">
+		<path d="m0.22811 0.22835v13.256h2.9558v-5.1876h2.09v-2.0452h-2.09v-2.2075h5.1486v-3.8087l-8.1044-0.0075z"
+			stroke="#370700"
+			fill="url(#radialGradient3817)"/>
+		<path d="m13.386 4.1792-1.7193 0.98645-0.75925-0.26348-0.72439-1.8513-1.1395 0.05988-0.51976 1.9144-0.72743 0.34835-1.8143-0.79367-0.76632 0.85156 0.98645 1.7193-0.26957 0.75702-1.8513 0.72439 0.065967 1.1417 1.9144 0.51976 0.34835 0.72743-0.79976 1.8121 0.85156 0.76632 1.7193-0.98645 0.76311 0.27179 0.7183 1.8491 1.1478-0.06375 0.51367-1.9166 0.72743-0.34835 1.8182 0.80198 0.76632-0.85156-0.98645-1.7193 0.2657-0.76533 1.8491-0.7183-0.05766-1.1456-1.9166-0.51367-0.34835-0.72743 0.7959-1.8204-0.85156-0.76632zm-2.5751 2.8195 0.35295 0.20478 0.30579 0.27725 0.24481 0.33087 0.17611 0.36787 0.10354 0.39656 0.01715 0.4064-0.0587 0.4063-0.13396 0.38571-0.2131 0.35681-0.26894 0.30192-0.33087 0.24481-0.36787 0.17611-0.39656 0.10354-0.40863 0.02325-0.4063-0.0587-0.38571-0.13396-0.35681-0.2131-0.2997-0.27503-0.24703-0.32478-0.17611-0.36787-0.10132-0.40264-0.02324-0.40863 0.05869-0.4063 0.13396-0.38571 0.21087-0.35072 0.27116-0.30801 0.33087-0.24481 0.36787-0.17611 0.40264-0.10132 0.40641-0.01715 0.4063 0.05869 0.38571 0.13396z" 
+		stroke="#000137"
+		fill="url(#radialGradient3661)"/>
+	</g>
+<g id="View016" transform="rotate(0.0,50.0,200.0) translate(50.0,200.0) scale(0.01,0.01)">
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="5.0px"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 3069.66 16025 L 3069.66 13045 " />
+<path id= "2" d=" M 3069.66 13045 L -29.999 13045 " />
+<path id= "3" d=" M 11020 16025.4 L 3069.66 16025 " />
+<path id= "4" d=" M 11020 3974.61 L 11020 16025.4 " />
+<path id= "5" d=" M 5970 3974.61 L 11020 3974.61 " />
+<path id= "6" d=" M 5970 1975 L 5970 3974.61 " />
+<path id= "7" d=" M -29.999 1975 L 5970 1975 " />
+<path id= "8" d=" M -29.999 13045 L -29.999 1975 " />
+<path id= "9" d=" M 10820 15825.4 L 8969.9 15825.3 " />
+<path id= "10" d=" M 8970.06 13045 L 8969.9 15825.3 " />
+<path id= "11" d=" M 8970.06 13045 L 10820 13045 " />
+<path id= "12" d=" M 10820 13045 L 10820 15825.4 " />
+<path id= "13" d=" M 8769.9 15825.3 L 3269.66 15825 " />
+<path id= "14" d=" M 3269.66 15825 L 3269.66 13045 " />
+<path id= "15" d=" M 3269.66 13045 L 8770.06 13045 " />
+<path id= "16" d=" M 8770.06 13045 L 8769.9 15825.3 " />
+<path id= "17" d=" M 170.001 9575 L 170.001 8425 " />
+<path id= "18" d=" M 3070 8425 L 170.001 8425 " />
+<path id= "19" d=" M 3070 8425 L 3070 9575 " />
+<path id= "20" d=" M 3070 9575 L 170.001 9575 " />
+<path id= "21" d=" M 170.001 12845 L 170.001 9775 " />
+<path id= "22" d=" M 4420 9775 L 170.001 9775 " />
+<path id= "23" d=" M 4420 12845 L 4420 9775 " />
+<path id= "24" d=" M 4420 12845 L 170.001 12845 " />
+<path id= "25" d=" M 170.001 8225 L 170.001 6675 " />
+<path id= "26" d=" M 3070 6675 L 170.001 6675 " />
+<path id= "27" d=" M 3070 6675 L 3070 8225 " />
+<path id= "28" d=" M 3070 8225 L 170.001 8225 " />
+<path id= "29" d=" M 170.001 6475 L 170.001 2175 " />
+<path id= "30" d=" M 170.001 2175 L 3070 2175 " />
+<path id= "31" d=" M 3070 2175 L 3070 4475 " />
+<path id= "32" d=" M 2495.04 4475 L 3070 4475 " />
+<path id= "33" d=" M 2495.04 4475 L 2495.04 4675 " />
+<path id= "34" d=" M 2495.04 4675 L 3070 4675 " />
+<path id= "35" d=" M 3070 4675 L 3070 6475 " />
+<path id= "36" d=" M 3070 6475 L 170.001 6475 " />
+<path id= "37" d=" M 3270 2175 L 5770 2175 " />
+<path id= "38" d=" M 5770 2175 L 5770 3974.61 " />
+<path id= "39" d=" M 5770 3974.61 L 3270 3974.61 " />
+<path id= "40" d=" M 3270 2175 L 3270 3974.61 " />
+<path id= "41" d=" M 5970 4174.61 L 5970 5750 " />
+<path id= "42" d=" M 5970 4174.61 L 10820 4174.61 " />
+<path id= "43" d=" M 10820 4174.61 L 10820 12845 " />
+<path id= "44" d=" M 4620 12845 L 10820 12845 " />
+<path id= "45" d=" M 4620 12845 L 4620 8550 " />
+<path id= "46" d=" M 4420 8550 L 4620 8550 " />
+<path id= "47" d=" M 4420 9575 L 4420 8550 " />
+<path id= "48" d=" M 4420 9575 L 3270 9575 " />
+<path id= "49" d=" M 3270 4174.61 L 3270 9575 " />
+<path id= "50" d=" M 5770 4174.61 L 3270 4174.61 " />
+<path id= "51" d=" M 5770 4174.61 L 5770 5750 " />
+<path id= "52" d=" M 5970 5750 L 5770 5750 " />
+<path id= "53" d=" M 5610 16185.1 L 3430 16185 " />
+<path id= "54" d=" M 3430 16185 L 3430 16349.4 " />
+<path id= "55" d=" M 5610 16349.4 L 5610 16185.1 " />
+<path id= "56" d=" M 11180 16349.4 L 10660 16349.4 " />
+<path id= "57" d=" M 11180 16185.5 L 11180 16349.4 " />
+<path id= "58" d=" M 10660 16349.4 L 10660 16185.4 " />
+<path id= "59" d=" M 11180 16185.5 L 11180 16185.5 " />
+<path id= "60" d=" M 10660 16185.4 L 6130 16185.2 " />
+<path id= "61" d=" M 11180 3814.61 L 11180 16185.5 " />
+<path id= "62" d=" M 6130 16185.2 L 6130 16349.4 " />
+<path id= "63" d=" M 6130 3814.61 L 11180 3814.61 " />
+<path id= "64" d=" M 6130 16349.4 L 5610 16349.4 " />
+<path id= "65" d=" M 3430 16349.4 L 2910 16349.4 " />
+<path id= "66" d=" M 2909.66 13205 L -190 13205 " />
+<path id= "67" d=" M 2909.66 16185 L 2909.66 13205 " />
+<path id= "68" d=" M 2910 16185 L 2909.66 16185 " />
+<path id= "69" d=" M 2910 16349.4 L 2910 16185 " />
+<path id= "70" d=" M 330 1815 L 2910 1815 " />
+<path id= "71" d=" M 330 1651 L 330 1815 " />
+<path id= "72" d=" M -190 1651 L 330 1651 " />
+<path id= "73" d=" M 2910 1815 L 2910 1651 " />
+<path id= "74" d=" M 2910 1651 L 3430 1651 " />
+<path id= "75" d=" M 3430 1815 L 5610 1815 " />
+<path id= "76" d=" M 5610 1815 L 5610 1651 " />
+<path id= "77" d=" M 5610 1651 L 6130 1651 " />
+<path id= "78" d=" M 3430 1651 L 3430 1815 " />
+<path id= "79" d=" M 4780 12685 L 5610 12685 " />
+<path id= "80" d=" M 5610 12685 L 5610 12521 " />
+<path id= "81" d=" M 5610 12521 L 6130 12521 " />
+<path id= "82" d=" M 6130 4334.61 L 10660 4334.61 " />
+<path id= "83" d=" M 10660 4334.61 L 10660 12685 " />
+<path id= "84" d=" M 6130 12685 L 10660 12685 " />
+<path id= "85" d=" M 6130 12521 L 6130 12685 " />
+<path id= "86" d=" M 4260 8058 L 4780 8058 " />
+<path id= "87" d=" M 5610 4334.61 L 3430 4334.61 " />
+<path id= "88" d=" M 3430 4334.61 L 3430 9415 " />
+<path id= "89" d=" M 4260 9415 L 3430 9415 " />
+<path id= "90" d=" M 6130 6242 L 5610 6242 " />
+<path id= "91" d=" M 8609.91 15665.3 L 3429.66 15665 " />
+<path id= "92" d=" M 3429.66 15665 L 3429.66 13205 " />
+<path id= "93" d=" M 8610.05 13205 L 8609.91 15665.3 " />
+<path id= "94" d=" M 3429.66 13205 L 5610 13205 " />
+<path id= "95" d=" M 6130 13205 L 8610.05 13205 " />
+<path id= "96" d=" M 5610 13205 L 5610 13205 " />
+<path id= "97" d=" M 6130 13205 L 6130 13205 " />
+<path id= "98" d=" M 6130 13205 L 5610 13205 " />
+<path id= "99" d=" M 330 12685 L 330 9935 " />
+<path id= "100" d=" M 4260 9935 L 330 9935 " />
+<path id= "101" d=" M 4260 12685 L 4260 9935 " />
+<path id= "102" d=" M 330 2335 L 2910 2335 " />
+<path id= "103" d=" M 2910 6315 L 330 6315 " />
+<path id= "104" d=" M 2910 4835 L 2910 6315 " />
+<path id= "105" d=" M 2495.03 4835 L 2910 4835 " />
+<path id= "106" d=" M 2495.03 4315 L 2495.03 4835 " />
+<path id= "107" d=" M 2495.03 4315 L 2910 4315 " />
+<path id= "108" d=" M 10660 13205 L 10660 15665.4 " />
+<path id= "109" d=" M 10660 15665.4 L 9129.91 15665.3 " />
+<path id= "110" d=" M 9130.05 13205 L 10660 13205 " />
+<path id= "111" d=" M 9130.05 13205 L 9129.91 15665.3 " />
+<path id= "112" d=" M 330 8065 L 330 6835 " />
+<path id= "113" d=" M 2910 6835 L 330 6835 " />
+<path id= "114" d=" M 2910 8065 L 330 8065 " />
+<path id= "115" d=" M 2910 6835 L 2910 8065 " />
+<path id= "116" d=" M 330 9415 L 330 8585 " />
+<path id= "117" d=" M 2910 8585 L 330 8585 " />
+<path id= "118" d=" M 2910 9415 L 330 9415 " />
+<path id= "119" d=" M 2910 8585 L 2910 9415 " />
+<path id= "120" d=" M 5610 3814.61 L 3430 3814.61 " />
+<path id= "121" d=" M 3430 2335 L 5610 2335 " />
+<path id= "122" d=" M -190 13205 L -190 2335 " />
+<path id= "123" d=" M -190 2335 L -190 1815 " />
+<path id= "124" d=" M -190 1815 L -190 1651 " />
+<path id= "125" d=" M 6130 1651 L 6130 1815 " />
+<path id= "126" d=" M 6130 1815 L 6130 2335 " />
+<path id= "127" d=" M 6130 2335 L 6130 3814.61 " />
+<path id= "128" d=" M 4780 12685 L 4780 8742 " />
+<path id= "129" d=" M 4780 8742 L 4780 8550 " />
+<path id= "130" d=" M 4780 8058 L 4780 8550 " />
+<path id= "131" d=" M 4260 8550 L 4260 8058 " />
+<path id= "132" d=" M 4260 8742 L 4260 8550 " />
+<path id= "133" d=" M 4260 9415 L 4260 8742 " />
+<path id= "134" d=" M 5610 4334.61 L 5610 5558 " />
+<path id= "135" d=" M 5610 5558 L 5610 5750 " />
+<path id= "136" d=" M 5610 6242 L 5610 5750 " />
+<path id= "137" d=" M 6130 5750 L 6130 6242 " />
+<path id= "138" d=" M 6130 5558 L 6130 5750 " />
+<path id= "139" d=" M 6130 4334.61 L 6130 5558 " />
+<path id= "140" d=" M 3429.66 12685 L 4260 12685 " />
+<path id= "141" d=" M 3169.66 12685 L 3429.66 12685 " />
+<path id= "142" d=" M 3169.66 12685 L 330 12685 " />
+<path id= "143" d=" M 330 2335 L 330 2335 " />
+<path id= "144" d=" M 2910 2335 L 2910 2335 " />
+<path id= "145" d=" M 2910 2335 L 2910 4315 " />
+<path id= "146" d=" M 330 6315 L 330 2335 " />
+<path id= "147" d=" M 3430 2335 L 3430 3814.61 " />
+<path id= "148" d=" M 3430 2335 L 3430 2335 " />
+<path id= "149" d=" M 5610 2335 L 5610 2335 " />
+<path id= "150" d=" M 5610 2335 L 5610 3814.61 " />
+<path id= "151" d=" M 11180 2335 L 10660 2335 " />
+<path id= "152" d=" M 10660 2335 L 10660 1651 " />
+<path id= "153" d=" M 10660 1651 L 11180 1651 " />
+<path id= "154" d=" M 11180 1651 L 11180 2335 " />
+<path id= "155" d=" M 6130 8742 L 5610 8742 " />
+<path id= "156" d=" M 5610 8742 L 5610 8058 " />
+<path id= "157" d=" M 5610 8058 L 6130 8058 " />
+<path id= "158" d=" M 6130 8058 L 6130 8742 " />
+<path id= "159" d=" M 330 16349.4 L -190 16349.4 " />
+<path id= "160" d=" M -190 16349.4 L -190 15665.4 " />
+<path id= "161" d=" M -190 15665.4 L 330 15665.4 " />
+<path id= "162" d=" M 330 15665.4 L 330 16349.4 " />
+<path id= "163" d=" M -5 15850 L 145 15850 " />
+<path id= "164" d=" M 145 15850 L 145 16150 " />
+<path id= "165" d=" M -5 16150 L -5 15850 " />
+<path id= "166" d=" M 145 16150 L -5 16150 " />
+<path id= "167" d=" M 3095 15850 L 3245 15850 " />
+<path id= "168" d=" M 3245 15850 L 3245 16150 " />
+<path id= "169" d=" M 3095 16150 L 3095 15850 " />
+<path id= "170" d=" M 3245 16150 L 3095 16150 " />
+<path id= "171" d=" M 5795 15850 L 5945 15850 " />
+<path id= "172" d=" M 5945 15850 L 5945 16150 " />
+<path id= "173" d=" M 5795 16150 L 5795 15850 " />
+<path id= "174" d=" M 5945 16150 L 5795 16150 " />
+<path id= "175" d=" M 10845 15850 L 10995 15850 " />
+<path id= "176" d=" M 10995 15850 L 10995 16150 " />
+<path id= "177" d=" M 10845 16150 L 10845 15850 " />
+<path id= "178" d=" M 10995 16150 L 10845 16150 " />
+<path id= "179" d=" M -5 5750 L 145 5750 " />
+<path id= "180" d=" M 145 5750 L 145 6050 " />
+<path id= "181" d=" M -5 6050 L -5 5750 " />
+<path id= "182" d=" M 145 6050 L -5 6050 " />
+<path id= "183" d=" M 5795 5750 L 5945 5750 " />
+<path id= "184" d=" M 5945 5750 L 5945 6050 " />
+<path id= "185" d=" M 5795 6050 L 5795 5750 " />
+<path id= "186" d=" M 5945 6050 L 5795 6050 " />
+<path id= "187" d=" M 10845 5750 L 10995 5750 " />
+<path id= "188" d=" M 10995 5750 L 10995 6050 " />
+<path id= "189" d=" M 10845 6050 L 10845 5750 " />
+<path id= "190" d=" M 10995 6050 L 10845 6050 " />
+<path id= "191" d=" M -5 1850 L 145 1850 " />
+<path id= "192" d=" M 145 1850 L 145 2150 " />
+<path id= "193" d=" M -5 2150 L -5 1850 " />
+<path id= "194" d=" M 145 2150 L -5 2150 " />
+<path id= "195" d=" M 10845 1850 L 10995 1850 " />
+<path id= "196" d=" M 10995 1850 L 10995 2150 " />
+<path id= "197" d=" M 10845 2150 L 10845 1850 " />
+<path id= "198" d=" M 10995 2150 L 10845 2150 " />
+<path id= "199" d=" M 5795 1850 L 5945 1850 " />
+<path id= "200" d=" M 5945 1850 L 5945 2150 " />
+<path id= "201" d=" M 5795 2150 L 5795 1850 " />
+<path id= "202" d=" M 5945 2150 L 5795 2150 " />
+<path id= "203" d=" M 3095 1850 L 3245 1850 " />
+<path id= "204" d=" M 3245 1850 L 3245 2150 " />
+<path id= "205" d=" M 3095 2150 L 3095 1850 " />
+<path id= "206" d=" M 3245 2150 L 3095 2150 " />
+<path id= "207" d=" M -5 8250 L 145 8250 " />
+<path id= "208" d=" M 145 8250 L 145 8550 " />
+<path id= "209" d=" M -5 8550 L -5 8250 " />
+<path id= "210" d=" M 145 8550 L -5 8550 " />
+<path id= "211" d=" M 10845 8250 L 10995 8250 " />
+<path id= "212" d=" M 10995 8250 L 10995 8550 " />
+<path id= "213" d=" M 10845 8550 L 10845 8250 " />
+<path id= "214" d=" M 10995 8550 L 10845 8550 " />
+<path id= "215" d=" M 5795 8250 L 5945 8250 " />
+<path id= "216" d=" M 5945 8250 L 5945 8550 " />
+<path id= "217" d=" M 5795 8550 L 5795 8250 " />
+<path id= "218" d=" M 5945 8550 L 5795 8550 " />
+<path id= "219" d=" M 4445 8250 L 4595 8250 " />
+<path id= "220" d=" M 4595 8250 L 4595 8550 " />
+<path id= "221" d=" M 4445 8550 L 4445 8250 " />
+<path id= "222" d=" M 4595 8550 L 4445 8550 " />
+<path id= "223" d=" M -5 12720 L 145 12720 " />
+<path id= "224" d=" M 145 12720 L 145 13020 " />
+<path id= "225" d=" M -5 13020 L -5 12720 " />
+<path id= "226" d=" M 145 13020 L -5 13020 " />
+<path id= "227" d=" M 10845 12720 L 10995 12720 " />
+<path id= "228" d=" M 10995 12720 L 10995 13020 " />
+<path id= "229" d=" M 10845 13020 L 10845 12720 " />
+<path id= "230" d=" M 10995 13020 L 10845 13020 " />
+<path id= "231" d=" M 5795 12720 L 5945 12720 " />
+<path id= "232" d=" M 5945 12720 L 5945 13020 " />
+<path id= "233" d=" M 5795 13020 L 5795 12720 " />
+<path id= "234" d=" M 5945 13020 L 5795 13020 " />
+<path id= "235" d=" M 4445 12720 L 4595 12720 " />
+<path id= "236" d=" M 4595 12720 L 4595 13020 " />
+<path id= "237" d=" M 4445 13020 L 4445 12720 " />
+<path id= "238" d=" M 4595 13020 L 4445 13020 " />
+</g>
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="5.0px"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+stroke-dasharray="30,10"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 3069.66 16025 L 3069.66 16000 " />
+<path id= "2" d=" M -5 13045 L -29.999 13045 " />
+<path id= "3" d=" M -29.999 13045 L -29.999 1975 " />
+<path id= "4" d=" M -29.999 1975 L -5 1975 " />
+<path id= "5" d=" M 145 1975 L 3095 1975 " />
+<path id= "6" d=" M 3245 1975 L 5795 1975 " />
+<path id= "7" d=" M 5945 1975 L 5970 1975 " />
+<path id= "8" d=" M 5970 1975 L 5970 2000 " />
+<path id= "9" d=" M 10995 3974.61 L 11020 3974.61 " />
+<path id= "10" d=" M 11020 3974.61 L 11020 16025.4 " />
+<path id= "11" d=" M 11020 16025.4 L 10995 16025.4 " />
+<path id= "12" d=" M 10845 16025.4 L 5945 16025.2 " />
+<path id= "13" d=" M 5795 16025.1 L 3245 16025 " />
+<path id= "14" d=" M 3095 16025 L 3069.66 16025 " />
+<path id= "15" d=" M 5945 5750 L 5795 5750 " />
+<path id= "16" d=" M 2495.04 4500 L 2495.04 4650 " />
+<path id= "17" d=" M 3095 16000 L 145 16000 " />
+<path id= "18" d=" M 145 15850 L -5 15850 " />
+<path id= "19" d=" M -5 15850 L -5 13020 " />
+<path id= "20" d=" M 145 13020 L 3095 13020 " />
+<path id= "21" d=" M 3095 13020 L 3095 16000 " />
+<path id= "22" d=" M 3245 15850 L 8795 15850 " />
+<path id= "23" d=" M 8795 15850 L 8795 13020 " />
+<path id= "24" d=" M 8795 13020 L 3245 13020 " />
+<path id= "25" d=" M 3245 13020 L 3245 15850 " />
+<path id= "26" d=" M 4445 12870 L 145 12870 " />
+<path id= "27" d=" M 145 12720 L 145 9750 " />
+<path id= "28" d=" M 145 9750 L 4445 9750 " />
+<path id= "29" d=" M 4445 9750 L 4445 12870 " />
+<path id= "30" d=" M 145 9600 L 3095 9600 " />
+<path id= "31" d=" M 3095 9600 L 3095 8400 " />
+<path id= "32" d=" M 3095 8400 L 145 8400 " />
+<path id= "33" d=" M 145 8550 L 145 9600 " />
+<path id= "34" d=" M 145 8250 L 3095 8250 " />
+<path id= "35" d=" M 3095 8250 L 3095 6650 " />
+<path id= "36" d=" M 3095 6650 L 145 6650 " />
+<path id= "37" d=" M 145 6650 L 145 8250 " />
+<path id= "38" d=" M 145 6500 L 3095 6500 " />
+<path id= "39" d=" M 3095 6500 L 3095 4650 " />
+<path id= "40" d=" M 3095 4650 L 2495.03 4650 " />
+<path id= "41" d=" M 2495.03 4650 L 2495.03 4500 " />
+<path id= "42" d=" M 2495.03 4500 L 3095 4500 " />
+<path id= "43" d=" M 3095 4500 L 3095 2150 " />
+<path id= "44" d=" M 3095 2150 L 145 2150 " />
+<path id= "45" d=" M 145 2150 L 145 5750 " />
+<path id= "46" d=" M 145 6050 L 145 6500 " />
+<path id= "47" d=" M 5795 12870 L 4595 12870 " />
+<path id= "48" d=" M 5795 12720 L 5795 12870 " />
+<path id= "49" d=" M 5945 12720 L 5795 12720 " />
+<path id= "50" d=" M 10845 12870 L 5945 12870 " />
+<path id= "51" d=" M 10845 4149.61 L 10845 12870 " />
+<path id= "52" d=" M 5945 4149.61 L 10845 4149.61 " />
+<path id= "53" d=" M 5945 5750 L 5945 4149.61 " />
+<path id= "54" d=" M 5795 6050 L 5945 6050 " />
+<path id= "55" d=" M 5795 4149.61 L 5795 6050 " />
+<path id= "56" d=" M 3245 4149.61 L 5795 4149.61 " />
+<path id= "57" d=" M 3245 9600 L 3245 4149.61 " />
+<path id= "58" d=" M 4445 9600 L 3245 9600 " />
+<path id= "59" d=" M 4445 8250 L 4445 9600 " />
+<path id= "60" d=" M 4595 12720 L 4595 8550 " />
+<path id= "61" d=" M 5795 8550 L 5945 8550 " />
+<path id= "62" d=" M 5795 8250 L 5795 8550 " />
+<path id= "63" d=" M 5795 3999.61 L 3245 3999.61 " />
+<path id= "64" d=" M 3245 3999.61 L 3245 2150 " />
+<path id= "65" d=" M 3245 2150 L 5795 2150 " />
+<path id= "66" d=" M 5795 2150 L 5795 3999.61 " />
+<path id= "67" d=" M 5945 3999.61 L 10995 3999.61 " />
+<path id= "68" d=" M 10995 3999.61 L 10995 2150 " />
+<path id= "69" d=" M 10995 2150 L 10845 2150 " />
+<path id= "70" d=" M 10845 2150 L 10845 2000 " />
+<path id= "71" d=" M 10845 2000 L 5945 2000 " />
+<path id= "72" d=" M 5945 2150 L 5945 3999.61 " />
+<path id= "73" d=" M 10845 15850 L 8945 15850 " />
+<path id= "74" d=" M 8945 15850 L 8945 13020 " />
+<path id= "75" d=" M 8945 13020 L 10845 13020 " />
+<path id= "76" d=" M 10845 13020 L 10845 15850 " />
+<path id= "77" d=" M -5 15850 L 145 15850 " />
+<path id= "78" d=" M 145 15850 L 145 16150 " />
+<path id= "79" d=" M 145 16150 L -5 16150 " />
+<path id= "80" d=" M -5 16150 L -5 15850 " />
+<path id= "81" d=" M 3095 15850 L 3245 15850 " />
+<path id= "82" d=" M 3245 15850 L 3245 16150 " />
+<path id= "83" d=" M 3245 16150 L 3095 16150 " />
+<path id= "84" d=" M 3095 16150 L 3095 15850 " />
+<path id= "85" d=" M 5795 15850 L 5945 15850 " />
+<path id= "86" d=" M 5945 15850 L 5945 16150 " />
+<path id= "87" d=" M 5945 16150 L 5795 16150 " />
+<path id= "88" d=" M 5795 16150 L 5795 15850 " />
+<path id= "89" d=" M 10845 15850 L 10995 15850 " />
+<path id= "90" d=" M 10995 15850 L 10995 16150 " />
+<path id= "91" d=" M 10995 16150 L 10845 16150 " />
+<path id= "92" d=" M 10845 16150 L 10845 15850 " />
+<path id= "93" d=" M -5 5750 L 145 5750 " />
+<path id= "94" d=" M 145 5750 L 145 6050 " />
+<path id= "95" d=" M 145 6050 L -5 6050 " />
+<path id= "96" d=" M -5 6050 L -5 5750 " />
+<path id= "97" d=" M 5795 5750 L 5945 5750 " />
+<path id= "98" d=" M 5945 5750 L 5945 6050 " />
+<path id= "99" d=" M 5945 6050 L 5795 6050 " />
+<path id= "100" d=" M 5795 6050 L 5795 5750 " />
+<path id= "101" d=" M 10845 5750 L 10995 5750 " />
+<path id= "102" d=" M 10995 5750 L 10995 6050 " />
+<path id= "103" d=" M 10995 6050 L 10845 6050 " />
+<path id= "104" d=" M 10845 6050 L 10845 5750 " />
+<path id= "105" d=" M -5 1850 L 145 1850 " />
+<path id= "106" d=" M 145 1850 L 145 2150 " />
+<path id= "107" d=" M 145 2150 L -5 2150 " />
+<path id= "108" d=" M -5 2150 L -5 1850 " />
+<path id= "109" d=" M 10845 1850 L 10995 1850 " />
+<path id= "110" d=" M 10995 1850 L 10995 2150 " />
+<path id= "111" d=" M 10995 2150 L 10845 2150 " />
+<path id= "112" d=" M 10845 2150 L 10845 1850 " />
+<path id= "113" d=" M 5795 1850 L 5945 1850 " />
+<path id= "114" d=" M 5945 1850 L 5945 2150 " />
+<path id= "115" d=" M 5945 2150 L 5795 2150 " />
+<path id= "116" d=" M 5795 2150 L 5795 1850 " />
+<path id= "117" d=" M 3095 1850 L 3245 1850 " />
+<path id= "118" d=" M 3245 1850 L 3245 2150 " />
+<path id= "119" d=" M 3245 2150 L 3095 2150 " />
+<path id= "120" d=" M 3095 2150 L 3095 1850 " />
+<path id= "121" d=" M -5 8250 L 145 8250 " />
+<path id= "122" d=" M 145 8250 L 145 8550 " />
+<path id= "123" d=" M 145 8550 L -5 8550 " />
+<path id= "124" d=" M -5 8550 L -5 8250 " />
+<path id= "125" d=" M 10845 8250 L 10995 8250 " />
+<path id= "126" d=" M 10995 8250 L 10995 8550 " />
+<path id= "127" d=" M 10995 8550 L 10845 8550 " />
+<path id= "128" d=" M 10845 8550 L 10845 8250 " />
+<path id= "129" d=" M 5795 8250 L 5945 8250 " />
+<path id= "130" d=" M 5945 8250 L 5945 8550 " />
+<path id= "131" d=" M 5945 8550 L 5795 8550 " />
+<path id= "132" d=" M 5795 8550 L 5795 8250 " />
+<path id= "133" d=" M 4445 8250 L 4595 8250 " />
+<path id= "134" d=" M 4595 8250 L 4595 8550 " />
+<path id= "135" d=" M 4595 8550 L 4445 8550 " />
+<path id= "136" d=" M 4445 8550 L 4445 8250 " />
+<path id= "137" d=" M -5 12720 L 145 12720 " />
+<path id= "138" d=" M 145 12720 L 145 13020 " />
+<path id= "139" d=" M 145 13020 L -5 13020 " />
+<path id= "140" d=" M -5 13020 L -5 12720 " />
+<path id= "141" d=" M 10845 12720 L 10995 12720 " />
+<path id= "142" d=" M 10995 12720 L 10995 13020 " />
+<path id= "143" d=" M 10995 13020 L 10845 13020 " />
+<path id= "144" d=" M 10845 13020 L 10845 12720 " />
+<path id= "145" d=" M 5795 12720 L 5945 12720 " />
+<path id= "146" d=" M 5945 12720 L 5945 13020 " />
+<path id= "147" d=" M 5945 13020 L 5795 13020 " />
+<path id= "148" d=" M 5795 13020 L 5795 12720 " />
+<path id= "149" d=" M 4445 12720 L 4595 12720 " />
+<path id= "150" d=" M 4595 12720 L 4595 13020 " />
+<path id= "151" d=" M 4595 13020 L 4445 13020 " />
+<path id= "152" d=" M 4445 13020 L 4445 12720 " />
+</g>
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="15.0px"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 3069.66 16025 L 3069.66 13045 " />
+<path id= "2" d=" M 11020 16025.4 L 3069.66 16025 " />
+<path id= "3" d=" M 3069.66 13045 L -29.999 13045 " />
+<path id= "4" d=" M 11020 3974.61 L 11020 16025.4 " />
+<path id= "5" d=" M -29.999 13045 L -29.999 1975 " />
+<path id= "6" d=" M 5970 3974.61 L 11020 3974.61 " />
+<path id= "7" d=" M -29.999 1975 L 5970 1975 " />
+<path id= "8" d=" M 5970 1975 L 5970 3974.61 " />
+<path id= "9" d=" M 5970 5750 L 5770 5750 " />
+<path id= "10" d=" M 5970 4174.61 L 5970 5750 " />
+<path id= "11" d=" M 5770 4174.61 L 5770 5750 " />
+<path id= "12" d=" M 5970 4174.61 L 10820 4174.61 " />
+<path id= "13" d=" M 5770 4174.61 L 3270 4174.61 " />
+<path id= "14" d=" M 10820 4174.61 L 10820 12845 " />
+<path id= "15" d=" M 3270 4174.61 L 3270 9575 " />
+<path id= "16" d=" M 4620 12845 L 10820 12845 " />
+<path id= "17" d=" M 4420 9575 L 3270 9575 " />
+<path id= "18" d=" M 4620 12845 L 4620 8550 " />
+<path id= "19" d=" M 4420 9575 L 4420 8550 " />
+<path id= "20" d=" M 4420 8550 L 4620 8550 " />
+<path id= "21" d=" M 8769.9 15825.3 L 3269.66 15825 " />
+<path id= "22" d=" M 8770.06 13045 L 8769.9 15825.3 " />
+<path id= "23" d=" M 3269.66 15825 L 3269.66 13045 " />
+<path id= "24" d=" M 3269.66 13045 L 8770.06 13045 " />
+<path id= "25" d=" M 170.001 12845 L 170.001 9775 " />
+<path id= "26" d=" M 4420 12845 L 170.001 12845 " />
+<path id= "27" d=" M 4420 9775 L 170.001 9775 " />
+<path id= "28" d=" M 4420 12845 L 4420 9775 " />
+<path id= "29" d=" M 170.001 6475 L 170.001 2175 " />
+<path id= "30" d=" M 3070 6475 L 170.001 6475 " />
+<path id= "31" d=" M 170.001 2175 L 3070 2175 " />
+<path id= "32" d=" M 3070 2175 L 3070 4475 " />
+<path id= "33" d=" M 2495.04 4475 L 3070 4475 " />
+<path id= "34" d=" M 2495.04 4475 L 2495.04 4675 " />
+<path id= "35" d=" M 2495.04 4675 L 3070 4675 " />
+<path id= "36" d=" M 3070 4675 L 3070 6475 " />
+<path id= "37" d=" M 10820 15825.4 L 8969.9 15825.3 " />
+<path id= "38" d=" M 10820 13045 L 10820 15825.4 " />
+<path id= "39" d=" M 8970.06 13045 L 8969.9 15825.3 " />
+<path id= "40" d=" M 8970.06 13045 L 10820 13045 " />
+<path id= "41" d=" M 170.001 8225 L 170.001 6675 " />
+<path id= "42" d=" M 3070 8225 L 170.001 8225 " />
+<path id= "43" d=" M 3070 6675 L 170.001 6675 " />
+<path id= "44" d=" M 3070 6675 L 3070 8225 " />
+<path id= "45" d=" M 170.001 9575 L 170.001 8425 " />
+<path id= "46" d=" M 3070 9575 L 170.001 9575 " />
+<path id= "47" d=" M 3070 8425 L 170.001 8425 " />
+<path id= "48" d=" M 3070 8425 L 3070 9575 " />
+<path id= "49" d=" M 3270 2175 L 5770 2175 " />
+<path id= "50" d=" M 3270 2175 L 3270 3974.61 " />
+<path id= "51" d=" M 5770 2175 L 5770 3974.61 " />
+<path id= "52" d=" M 5770 3974.61 L 3270 3974.61 " />
+<path id= "53" d=" M -5 15850 L 145 15850 " />
+<path id= "54" d=" M -5 16150 L -5 15850 " />
+<path id= "55" d=" M 145 15850 L 145 16150 " />
+<path id= "56" d=" M 145 16150 L -5 16150 " />
+<path id= "57" d=" M 3095 15850 L 3245 15850 " />
+<path id= "58" d=" M 3095 16150 L 3095 15850 " />
+<path id= "59" d=" M 3245 15850 L 3245 16150 " />
+<path id= "60" d=" M 3245 16150 L 3095 16150 " />
+<path id= "61" d=" M 5795 15850 L 5945 15850 " />
+<path id= "62" d=" M 5795 16150 L 5795 15850 " />
+<path id= "63" d=" M 5945 15850 L 5945 16150 " />
+<path id= "64" d=" M 5945 16150 L 5795 16150 " />
+<path id= "65" d=" M 10845 15850 L 10995 15850 " />
+<path id= "66" d=" M 10845 16150 L 10845 15850 " />
+<path id= "67" d=" M 10995 15850 L 10995 16150 " />
+<path id= "68" d=" M 10995 16150 L 10845 16150 " />
+<path id= "69" d=" M -5 5750 L 145 5750 " />
+<path id= "70" d=" M -5 6050 L -5 5750 " />
+<path id= "71" d=" M 145 5750 L 145 6050 " />
+<path id= "72" d=" M 145 6050 L -5 6050 " />
+<path id= "73" d=" M 5795 5750 L 5945 5750 " />
+<path id= "74" d=" M 5795 6050 L 5795 5750 " />
+<path id= "75" d=" M 5945 5750 L 5945 6050 " />
+<path id= "76" d=" M 5945 6050 L 5795 6050 " />
+<path id= "77" d=" M 10845 5750 L 10995 5750 " />
+<path id= "78" d=" M 10845 6050 L 10845 5750 " />
+<path id= "79" d=" M 10995 5750 L 10995 6050 " />
+<path id= "80" d=" M 10995 6050 L 10845 6050 " />
+<path id= "81" d=" M -5 1850 L 145 1850 " />
+<path id= "82" d=" M -5 2150 L -5 1850 " />
+<path id= "83" d=" M 145 1850 L 145 2150 " />
+<path id= "84" d=" M 145 2150 L -5 2150 " />
+<path id= "85" d=" M 10845 1850 L 10995 1850 " />
+<path id= "86" d=" M 10845 2150 L 10845 1850 " />
+<path id= "87" d=" M 10995 1850 L 10995 2150 " />
+<path id= "88" d=" M 10995 2150 L 10845 2150 " />
+<path id= "89" d=" M 5795 1850 L 5945 1850 " />
+<path id= "90" d=" M 5795 2150 L 5795 1850 " />
+<path id= "91" d=" M 5945 1850 L 5945 2150 " />
+<path id= "92" d=" M 5945 2150 L 5795 2150 " />
+<path id= "93" d=" M 3095 1850 L 3245 1850 " />
+<path id= "94" d=" M 3095 2150 L 3095 1850 " />
+<path id= "95" d=" M 3245 1850 L 3245 2150 " />
+<path id= "96" d=" M 3245 2150 L 3095 2150 " />
+<path id= "97" d=" M -5 8250 L 145 8250 " />
+<path id= "98" d=" M -5 8550 L -5 8250 " />
+<path id= "99" d=" M 145 8250 L 145 8550 " />
+<path id= "100" d=" M 145 8550 L -5 8550 " />
+<path id= "101" d=" M 10845 8250 L 10995 8250 " />
+<path id= "102" d=" M 10845 8550 L 10845 8250 " />
+<path id= "103" d=" M 10995 8250 L 10995 8550 " />
+<path id= "104" d=" M 10995 8550 L 10845 8550 " />
+<path id= "105" d=" M 5795 8250 L 5945 8250 " />
+<path id= "106" d=" M 5795 8550 L 5795 8250 " />
+<path id= "107" d=" M 5945 8250 L 5945 8550 " />
+<path id= "108" d=" M 5945 8550 L 5795 8550 " />
+<path id= "109" d=" M 4445 8250 L 4595 8250 " />
+<path id= "110" d=" M 4445 8550 L 4445 8250 " />
+<path id= "111" d=" M 4595 8250 L 4595 8550 " />
+<path id= "112" d=" M 4595 8550 L 4445 8550 " />
+<path id= "113" d=" M -5 12720 L 145 12720 " />
+<path id= "114" d=" M -5 13020 L -5 12720 " />
+<path id= "115" d=" M 145 12720 L 145 13020 " />
+<path id= "116" d=" M 145 13020 L -5 13020 " />
+<path id= "117" d=" M 10845 12720 L 10995 12720 " />
+<path id= "118" d=" M 10845 13020 L 10845 12720 " />
+<path id= "119" d=" M 10995 12720 L 10995 13020 " />
+<path id= "120" d=" M 10995 13020 L 10845 13020 " />
+<path id= "121" d=" M 5795 12720 L 5945 12720 " />
+<path id= "122" d=" M 5795 13020 L 5795 12720 " />
+<path id= "123" d=" M 5945 12720 L 5945 13020 " />
+<path id= "124" d=" M 5945 13020 L 5795 13020 " />
+<path id= "125" d=" M 4445 12720 L 4595 12720 " />
+<path id= "126" d=" M 4445 13020 L 4445 12720 " />
+<path id= "127" d=" M 4595 12720 L 4595 13020 " />
+<path id= "128" d=" M 4595 13020 L 4445 13020 " />
+</g>
+</g>
+
+
+
+<g id="ViewGroup077" transform="rotate(0.0,50.0,200.0) translate(50.0,200.0) scale(0.01,-0.01)"><path d="M -190.0004173 17149.4213259 L -190.0004173 17249.4213259 L 11179.9995827 17249.4213259 L 11179.9995827 17149.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-190.0004173 17149.4213259" freecad:basepoint2="11179.9995827 17149.4213259" freecad:dimpoint="-190.0004173 17249.4213259"/>
+<circle cx="-190.0004173" cy="17249.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11179.9995827" cy="17249.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,5494.9995827,17269.4213259) translate(5494.9995827,17269.4213259) scale(1,-1) " freecad:skip="1">
+11.37 m</text>
+<path d="M -190.0004173 16849.4213259 L -190.0004173 16949.4213259 L 2909.9995827 16949.4213259 L 2909.9995827 16849.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-190.0004173 16849.4213259" freecad:basepoint2="2909.9995827 16849.4213259" freecad:dimpoint="-190.0004173 16949.4213259"/>
+<circle cx="-190.0004173" cy="16949.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2909.9995827" cy="16949.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,1359.9995827,16969.4213259) translate(1359.9995827,16969.4213259) scale(1,-1) " freecad:skip="1">
+3.10 m</text>
+<path d="M 2909.9995827 16849.4213259 L 2909.9995827 16949.4213259 L 11179.9995827 16949.4213259 L 11179.9995827 16849.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2909.9995827 16849.4213259" freecad:basepoint2="11179.9995827 16849.4213259" freecad:dimpoint="2909.9995827 16949.4213259"/>
+<circle cx="2909.9995827" cy="16949.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11179.9995827" cy="16949.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,7044.9995827,16969.4213259) translate(7044.9995827,16969.4213259) scale(1,-1) " freecad:skip="1">
+8.27 m</text>
+<path d="M -190.0004173 16549.4213259 L -190.0004173 16649.4213259 L 329.9995827 16649.4213259 L 329.9995827 16549.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-190.0004173 16549.4213259" freecad:basepoint2="329.9995827 16549.4213259" freecad:dimpoint="-190.0004173 16649.4213259"/>
+<circle cx="-190.0004173" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="329.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,69.9995827,16669.4213259) translate(69.9995827,16669.4213259) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 329.9995827 16549.4213259 L 329.9995827 16649.4213259 L 2909.9995827 16649.4213259 L 2909.9995827 16549.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="329.9995827 16549.4213259" freecad:basepoint2="2909.9995827 16549.4213259" freecad:dimpoint="329.9995827 16649.4213259"/>
+<circle cx="329.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2909.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,1619.9995827,16669.4213259) translate(1619.9995827,16669.4213259) scale(1,-1) " freecad:skip="1">
+2.58 m</text>
+<path d="M 2909.9995827 16549.4213259 L 2909.9995827 16649.4213259 L 3429.9995827 16649.4213259 L 3429.9995827 16549.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2909.9995827 16549.4213259" freecad:basepoint2="3429.9995827 16549.4213259" freecad:dimpoint="2909.9995827 16649.4213259"/>
+<circle cx="2909.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3429.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,3169.9995827,16669.4213259) translate(3169.9995827,16669.4213259) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 3429.9995827 16549.4213259 L 3429.9995827 16649.4213259 L 5609.9995827 16649.4213259 L 5609.9995827 16549.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3429.9995827 16549.4213259" freecad:basepoint2="5609.9995827 16549.4213259" freecad:dimpoint="3429.9995827 16649.4213259"/>
+<circle cx="3429.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="5609.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,4519.9995827,16669.4213259) translate(4519.9995827,16669.4213259) scale(1,-1) " freecad:skip="1">
+2.18 m</text>
+<path d="M 5609.9995827 16549.4213259 L 5609.9995827 16649.4213259 L 6129.9995827 16649.4213259 L 6129.9995827 16549.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="5609.9995827 16549.4213259" freecad:basepoint2="6129.9995827 16549.4213259" freecad:dimpoint="5609.9995827 16649.4213259"/>
+<circle cx="5609.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6129.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,5869.9995827,16669.4213259) translate(5869.9995827,16669.4213259) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 6129.9995827 16549.4213259 L 6129.9995827 16649.4213259 L 10659.9995827 16649.4213259 L 10659.9995827 16549.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6129.9995827 16549.4213259" freecad:basepoint2="10659.9995827 16549.4213259" freecad:dimpoint="6129.9995827 16649.4213259"/>
+<circle cx="6129.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="10659.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,8394.9995827,16669.4213259) translate(8394.9995827,16669.4213259) scale(1,-1) " freecad:skip="1">
+4.53 m</text>
+<path d="M 10659.9995827 16549.4213259 L 10659.9995827 16649.4213259 L 11179.9995827 16649.4213259 L 11179.9995827 16549.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="10659.9995827 16549.4213259" freecad:basepoint2="11179.9995827 16549.4213259" freecad:dimpoint="10659.9995827 16649.4213259"/>
+<circle cx="10659.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11179.9995827" cy="16649.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,10919.9995827,16669.4213259) translate(10919.9995827,16669.4213259) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M -990.0004173 1651.0001221 L -1090.0004173 1651.0001221 L -1090.0004173 16349.4213259 L -990.0004173 16349.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-990.0004173 1651.0001221" freecad:basepoint2="-990.0004173 16349.4213259" freecad:dimpoint="-1090.0004173 1651.0001221"/>
+<circle cx="-1090.0004173" cy="1651.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-1090.0004173" cy="16349.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-1110.0004173,9000.21072402) translate(-1110.0004173,9000.21072402) scale(1,-1) " freecad:skip="1">
+14.70 m</text>
+<path d="M -690.0004173 1651.0001221 L -790.0004173 1651.0001221 L -790.0004173 13205.0 L -690.0004173 13205.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-690.0004173 1651.0001221" freecad:basepoint2="-690.0004173 13205.0" freecad:dimpoint="-790.0004173 1651.0001221"/>
+<circle cx="-790.0004173" cy="1651.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-790.0004173" cy="13205.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-810.0004173,7428.00006106) translate(-810.0004173,7428.00006106) scale(1,-1) " freecad:skip="1">
+11.55 m</text>
+<path d="M -690.0004173 13205.0 L -790.0004173 13205.0 L -790.0004173 16349.4213259 L -690.0004173 16349.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-690.0004173 13205.0" freecad:basepoint2="-690.0004173 16349.4213259" freecad:dimpoint="-790.0004173 13205.0"/>
+<circle cx="-790.0004173" cy="13205.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-790.0004173" cy="16349.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-810.0004173,14777.210663) translate(-810.0004173,14777.210663) scale(1,-1) " freecad:skip="1">
+3.14 m</text>
+<path d="M -390.0 1651.0001221 L -490.0 1651.0001221 L -490.0 1815.0 L -390.0 1815.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 1651.0001221" freecad:basepoint2="-390.0 1815.0" freecad:dimpoint="-490.0 1651.0001221"/>
+<circle cx="-490.0" cy="1651.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="1815.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,1733.00006105) translate(-510.0,1733.00006105) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M -390.0 1815.0 L -490.0 1815.0 L -490.0 2335.0 L -390.0 2335.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 1815.0" freecad:basepoint2="-390.0 2335.0" freecad:dimpoint="-490.0 1815.0"/>
+<circle cx="-490.0" cy="1815.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="2335.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,2075.0) translate(-510.0,2075.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M -390.0 2335.0 L -490.0 2335.0 L -490.0 6315.0 L -390.0 6315.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 2335.0" freecad:basepoint2="-390.0 6315.0" freecad:dimpoint="-490.0 2335.0"/>
+<circle cx="-490.0" cy="2335.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="6315.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,4325.0) translate(-510.0,4325.0) scale(1,-1) " freecad:skip="1">
+3.98 m</text>
+<path d="M -390.0 6315.0 L -490.0 6315.0 L -490.0 6835.0 L -390.0 6835.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 6315.0" freecad:basepoint2="-390.0 6835.0" freecad:dimpoint="-490.0 6315.0"/>
+<circle cx="-490.0" cy="6315.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="6835.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,6575.0) translate(-510.0,6575.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M -390.0 6835.0 L -490.0 6835.0 L -490.0 8065.00000004 L -390.0 8065.00000004" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 6835.0" freecad:basepoint2="-390.0 8065.00000004" freecad:dimpoint="-490.0 6835.0"/>
+<circle cx="-490.0" cy="6835.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="8065.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,7450.00000002) translate(-510.0,7450.00000002) scale(1,-1) " freecad:skip="1">
+1.23 m</text>
+<path d="M -390.0 8065.00000004 L -490.0 8065.00000004 L -490.0 8585.00000004 L -390.0 8585.00000004" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 8065.00000004" freecad:basepoint2="-390.0 8585.00000004" freecad:dimpoint="-490.0 8065.00000004"/>
+<circle cx="-490.0" cy="8065.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="8585.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,8325.00000004) translate(-510.0,8325.00000004) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M -390.0 8585.00000004 L -490.0 8585.00000004 L -490.0 9415.00000004 L -390.0 9415.00000004" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 8585.00000004" freecad:basepoint2="-390.0 9415.00000004" freecad:dimpoint="-490.0 8585.00000004"/>
+<circle cx="-490.0" cy="8585.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="9415.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,9000.00000004) translate(-510.0,9000.00000004) scale(1,-1) " freecad:skip="1">
+0.83 m</text>
+<path d="M -390.0 9415.00000004 L -490.0 9415.00000004 L -490.0 9935.00000004 L -390.0 9935.00000004" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 9415.00000004" freecad:basepoint2="-390.0 9935.00000004" freecad:dimpoint="-490.0 9415.00000004"/>
+<circle cx="-490.0" cy="9415.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="9935.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,9675.00000004) translate(-510.0,9675.00000004) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M -390.0 9935.00000004 L -490.0 9935.00000004 L -490.0 12685.0 L -390.0 12685.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 9935.00000004" freecad:basepoint2="-390.0 12685.0" freecad:dimpoint="-490.0 9935.00000004"/>
+<circle cx="-490.0" cy="9935.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="12685.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,11310.0) translate(-510.0,11310.0) scale(1,-1) " freecad:skip="1">
+2.75 m</text>
+<path d="M -390.0 12685.0 L -490.0 12685.0 L -490.0 13205.0 L -390.0 13205.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 12685.0" freecad:basepoint2="-390.0 13205.0" freecad:dimpoint="-490.0 12685.0"/>
+<circle cx="-490.0" cy="12685.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0" cy="13205.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0,12945.0) translate(-510.0,12945.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M -390.0 13204.9999661 L -490.0 13204.9999491 L -490.0004173 15665.4212751 L -390.0004173 15665.421292" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0 13204.9999661" freecad:basepoint2="-390.0004173 15665.421292" freecad:dimpoint="-490.0 13204.9999491"/>
+<circle cx="-490.0" cy="13204.9999491" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0004173" cy="15665.4212751" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-89.9999903407,-510.00020865,14435.2106087) translate(-510.00020865,14435.2106087) scale(1,-1) " freecad:skip="1">
+2.46 m</text>
+<path d="M -390.0004173 15665.4213259 L -490.0004173 15665.4213259 L -490.0004173 16349.4213259 L -390.0004173 16349.4213259" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-390.0004173 15665.4213259" freecad:basepoint2="-390.0004173 16349.4213259" freecad:dimpoint="-490.0004173 15665.4213259"/>
+<circle cx="-490.0004173" cy="15665.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-490.0004173" cy="16349.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(90.0,-510.0004173,16007.4213259) translate(-510.0004173,16007.4213259) scale(1,-1) " freecad:skip="1">
+0.68 m</text>
+<path d="M 11980.0 16349.4213259 L 12080.0 16349.4213259 L 12080.0 1651.0001221 L 11980.0 1651.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11980.0 16349.4213259" freecad:basepoint2="11980.0 1651.0001221" freecad:dimpoint="12080.0 16349.4213259"/>
+<circle cx="12080.0" cy="16349.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="12080.0" cy="1651.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,12100.0,9000.21072402) translate(12100.0,9000.21072402) scale(1,-1) " freecad:skip="1">
+14.70 m</text>
+<path d="M 11679.9995107 16349.4213426 L 11779.9995107 16349.4213459 L 11779.999928 3814.61061567 L 11679.999928 3814.61061235" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11679.9995107 16349.4213426" freecad:basepoint2="11679.999928 3814.61061235" freecad:dimpoint="11779.9995107 16349.4213459"/>
+<circle cx="11779.9995107" cy="16349.4213459" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11779.999928" cy="3814.61061567" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,11799.9997193,10082.0159815) translate(11799.9997193,10082.0159815) scale(1,-1) " freecad:skip="1">
+12.53 m</text>
+<path d="M 11680.0004173 3814.61049926 L 11780.0004173 3814.61047998 L 11780.0 1651.00000638 L 11680.0 1651.00002566" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11680.0004173 3814.61049926" freecad:basepoint2="11680.0 1651.00002566" freecad:dimpoint="11780.0004173 3814.61047998"/>
+<circle cx="11780.0004173" cy="3814.61047998" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11780.0" cy="1651.00000638" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0000096593,11800.0002086,2732.80523932) translate(11800.0002086,2732.80523932) scale(1,-1) " freecad:skip="1">
+2.16 m</text>
+<path d="M 11379.6171875 16349.4213259 L 11479.6171875 16349.4213259 L 11479.6171875 16185.4504459 L 11379.6171875 16185.4504459" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11379.6171875 16349.4213259" freecad:basepoint2="11379.6171875 16185.4504459" freecad:dimpoint="11479.6171875 16349.4213259"/>
+<circle cx="11479.6171875" cy="16349.4213259" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11479.6171875" cy="16185.4504459" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,11499.6171875,16267.4358859) translate(11499.6171875,16267.4358859) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 11379.6171875 16185.4217822 L 11479.6171875 16185.4218625 L 11479.6176048 15665.4218617 L 11379.6176048 15665.4217814" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11379.6171875 16185.4217822" freecad:basepoint2="11379.6176048 15665.4217814" freecad:dimpoint="11479.6171875 16185.4218625"/>
+<circle cx="11479.6171875" cy="16185.4218625" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11479.6176048" cy="15665.4218617" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-89.9999517033,11499.6173962,15925.4218781) translate(11499.6173962,15925.4218781) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 11379.6176048 15665.4212039 L 11479.6176048 15665.4212039 L 11479.6176048 13205.0 L 11379.6176048 13205.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11379.6176048 15665.4212039" freecad:basepoint2="11379.6176048 13205.0" freecad:dimpoint="11479.6176048 15665.4212039"/>
+<circle cx="11479.6176048" cy="15665.4212039" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11479.6176048" cy="13205.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,11499.6176048,14435.210602) translate(11499.6176048,14435.210602) scale(1,-1) " freecad:skip="1">
+2.46 m</text>
+<path d="M 11379.6176048 13205.0 L 11479.6176048 13205.0 L 11479.6176048 12685.0 L 11379.6176048 12685.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11379.6176048 13205.0" freecad:basepoint2="11379.6176048 12685.0" freecad:dimpoint="11479.6176048 13205.0"/>
+<circle cx="11479.6176048" cy="13205.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11479.6176048" cy="12685.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,11499.6176048,12945.0) translate(11499.6176048,12945.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 11379.6176048 12684.9999641 L 11479.6176048 12684.9999591 L 11479.6171875 4334.61055474 L 11379.6171875 4334.61055974" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11379.6176048 12684.9999641" freecad:basepoint2="11379.6171875 4334.61055974" freecad:dimpoint="11479.6176048 12684.9999591"/>
+<circle cx="11479.6176048" cy="12684.9999591" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11479.6171875" cy="4334.61055474" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,11499.6173961,8509.8052559) translate(11499.6173961,8509.8052559) scale(1,-1) " freecad:skip="1">
+8.35 m</text>
+<path d="M 11379.6171875 4334.6105957 L 11479.6171875 4334.6105957 L 11479.6171875 3814.6105957 L 11379.6171875 3814.6105957" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11379.6171875 4334.6105957" freecad:basepoint2="11379.6171875 3814.6105957" freecad:dimpoint="11479.6171875 4334.6105957"/>
+<circle cx="11479.6171875" cy="4334.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11479.6171875" cy="3814.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,11499.6171875,4074.6105957) translate(11499.6171875,4074.6105957) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 11379.6171875 3814.6105957 L 11479.6171875 3814.6105957 L 11479.6171875 2335.0001221 L 11379.6171875 2335.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11379.6171875 3814.6105957" freecad:basepoint2="11379.6171875 2335.0001221" freecad:dimpoint="11479.6171875 3814.6105957"/>
+<circle cx="11479.6171875" cy="3814.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11479.6171875" cy="2335.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,11499.6171875,3074.8053589) translate(11499.6171875,3074.8053589) scale(1,-1) " freecad:skip="1">
+1.48 m</text>
+<path d="M 11379.6171875 2335.0001221 L 11479.6171875 2335.0001221 L 11479.6171875 1651.0001221 L 11379.6171875 1651.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11379.6171875 2335.0001221" freecad:basepoint2="11379.6171875 1651.0001221" freecad:dimpoint="11479.6171875 2335.0001221"/>
+<circle cx="11479.6171875" cy="2335.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11479.6171875" cy="1651.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,11499.6171875,1993.0001221) translate(11499.6171875,1993.0001221) scale(1,-1) " freecad:skip="1">
+0.68 m</text>
+<path d="M -190.0 851.0001221 L -190.0 751.0001221 L 11180.0 751.0001221 L 11180.0 851.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-190.0 851.0001221" freecad:basepoint2="11180.0 851.0001221" freecad:dimpoint="-190.0 751.0001221"/>
+<circle cx="-190.0" cy="751.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11180.0" cy="751.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,5495.0,771.0001221) translate(5495.0,771.0001221) scale(1,-1) " freecad:skip="1">
+11.37 m</text>
+<path d="M -190.0 1151.0001222 L -190.0 1051.0001222 L 6130.0 1051.0001222 L 6130.0 1151.0001222" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-190.0 1151.0001222" freecad:basepoint2="6130.0 1151.0001222" freecad:dimpoint="-190.0 1051.0001222"/>
+<circle cx="-190.0" cy="1051.0001222" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6130.0" cy="1051.0001222" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,2970.0,1071.0001222) translate(2970.0,1071.0001222) scale(1,-1) " freecad:skip="1">
+6.32 m</text>
+<path d="M 6129.9995827 1151.0001222 L 6129.9995827 1051.0001222 L 11180.0 1051.0001222 L 11180.0 1151.0001222" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6129.9995827 1151.0001222" freecad:basepoint2="11180.0 1151.0001222" freecad:dimpoint="6129.9995827 1051.0001222"/>
+<circle cx="6129.9995827" cy="1051.0001222" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11180.0" cy="1051.0001222" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,8654.99979135,1071.0001222) translate(8654.99979135,1071.0001222) scale(1,-1) " freecad:skip="1">
+5.05 m</text>
+<path d="M -190.0 1451.0001221 L -190.0 1351.0001221 L 330.0 1351.0001221 L 330.0 1451.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-190.0 1451.0001221" freecad:basepoint2="330.0 1451.0001221" freecad:dimpoint="-190.0 1351.0001221"/>
+<circle cx="-190.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="330.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,70.0,1371.0001221) translate(70.0,1371.0001221) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 330.0 1451.0001221 L 330.0 1351.0001221 L 2910.0 1351.0001221 L 2910.0 1451.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="330.0 1451.0001221" freecad:basepoint2="2910.0 1451.0001221" freecad:dimpoint="330.0 1351.0001221"/>
+<circle cx="330.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2910.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,1620.0,1371.0001221) translate(1620.0,1371.0001221) scale(1,-1) " freecad:skip="1">
+2.58 m</text>
+<path d="M 2910.0 1451.0001221 L 2910.0 1351.0001221 L 3430.0 1351.0001221 L 3430.0 1451.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2910.0 1451.0001221" freecad:basepoint2="3430.0 1451.0001221" freecad:dimpoint="2910.0 1351.0001221"/>
+<circle cx="2910.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3430.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,3170.0,1371.0001221) translate(3170.0,1371.0001221) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 3430.0 1451.0001221 L 3430.0 1351.0001221 L 5610.0 1351.0001221 L 5610.0 1451.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3430.0 1451.0001221" freecad:basepoint2="5610.0 1451.0001221" freecad:dimpoint="3430.0 1351.0001221"/>
+<circle cx="3430.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="5610.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,4520.0,1371.0001221) translate(4520.0,1371.0001221) scale(1,-1) " freecad:skip="1">
+2.18 m</text>
+<path d="M 5610.0 1451.0001221 L 5610.0 1351.0001221 L 6129.9995827 1351.0001221 L 6129.9995827 1451.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="5610.0 1451.0001221" freecad:basepoint2="6129.9995827 1451.0001221" freecad:dimpoint="5610.0 1351.0001221"/>
+<circle cx="5610.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6129.9995827" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,5869.99979135,1371.0001221) translate(5869.99979135,1371.0001221) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 6130.0 1451.0001221 L 6130.0 1351.0001221 L 10660.0 1351.0001221 L 10660.0 1451.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6130.0 1451.0001221" freecad:basepoint2="10660.0 1451.0001221" freecad:dimpoint="6130.0 1351.0001221"/>
+<circle cx="6130.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="10660.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,8395.0,1371.0001221) translate(8395.0,1371.0001221) scale(1,-1) " freecad:skip="1">
+4.53 m</text>
+<path d="M 10660.0 1451.0001221 L 10660.0 1351.0001221 L 11180.0 1351.0001221 L 11180.0 1451.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="10660.0 1451.0001221" freecad:basepoint2="11180.0 1451.0001221" freecad:dimpoint="10660.0 1351.0001221"/>
+<circle cx="10660.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11180.0" cy="1351.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,10920.0,1371.0001221) translate(10920.0,1371.0001221) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 8609.9766543 14435.1529605 L 8609.9766543 14435.1529605 L 9129.9766543 14435.1675811 L 9129.9766543 14435.1675811" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="8609.9766543 14435.1529605" freecad:basepoint2="9129.9766543 14435.1675811" freecad:dimpoint="8609.9766543 14435.1529605"/>
+<circle cx="8609.9766543" cy="14435.1529605" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="9129.9766543" cy="14435.1675811" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(0.00161095662279,8869.97609197,14455.1602708) translate(8869.97609197,14455.1602708) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 9129.9766543 14435.1675811 L 9129.9766543 14435.1675818 L 10660.0 14435.2106026 L 10660.0 14435.210602" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="9129.9766543 14435.1675811" freecad:basepoint2="10660.0 14435.210602" freecad:dimpoint="9129.9766543 14435.1675818"/>
+<circle cx="9129.9766543" cy="14435.1675818" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="10660.0" cy="14435.2106026" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(0.00161102992326,9894.98776479,14455.1890922) translate(9894.98776479,14455.1890922) scale(1,-1) " freecad:skip="1">
+1.53 m</text>
+<path d="M 10660.0 14435.210602 L 10660.0 14435.2106026 L 11180.0 14435.2106026 L 11180.0 14435.210602" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="10660.0 14435.210602" freecad:basepoint2="11180.0 14435.210602" freecad:dimpoint="10660.0 14435.2106026"/>
+<circle cx="10660.0" cy="14435.2106026" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11180.0" cy="14435.2106026" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,10920.0,14455.2106026) translate(10920.0,14455.2106026) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 8769.96638493 14635.1459401 L 8769.96076163 14735.1459399 L 8969.96076133 14735.1571865 L 8969.96638463 14635.1571867" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="8769.96638493 14635.1459401" freecad:basepoint2="8969.96638463 14635.1571867" freecad:dimpoint="8769.96076163 14735.1459399"/>
+<circle cx="8769.96076163" cy="14735.1459399" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="8969.96076133" cy="14735.1571865" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(0.00322191335901,8869.95963682,14755.1515632) translate(8869.95963682,14755.1515632) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 10820.0009766 14635.1661838 L 10820.0009766 14735.1661838 L 11020.0009766 14735.1661838 L 11020.0009766 14635.1661838" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="10820.0009766 14635.1661838" freecad:basepoint2="11020.0009766 14635.1661838" freecad:dimpoint="10820.0009766 14735.1661838"/>
+<circle cx="10820.0009766" cy="14735.1661838" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11020.0009766" cy="14735.1661838" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,10920.0009766,14755.1661838) translate(10920.0009766,14755.1661838) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 8609.93729211 15135.1369415 L 8609.94291541 15035.1369417 L 8769.94389171 15035.145939 L 8769.93826841 15135.1459388" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="8609.93729211 15135.1369415" freecad:basepoint2="8769.93826841 15135.1459388" freecad:dimpoint="8609.94291541 15035.1369417"/>
+<circle cx="8609.94291541" cy="15035.1369417" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="8769.94389171" cy="15035.145939" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(0.00322191539518,8689.9422789,15055.1414403) translate(8689.9422789,15055.1414403) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 8969.943892 15035.1459399 L 8969.94389137 15035.1571856 L 9129.94291457 15035.1661828 L 9129.9429152 15035.1549372" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="8969.943892 15035.1459399" freecad:basepoint2="9129.9429152 15035.1549372" freecad:dimpoint="8969.94389137 15035.1571856"/>
+<circle cx="8969.94389137" cy="15035.1571856" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="9129.94291457" cy="15035.1661828" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(0.0032219116622,9049.94227831,15055.1616842) translate(9049.94227831,15055.1616842) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 10660.0 15135.1459399 L 10660.0 15035.1459399 L 10820.0009766 15035.1459399 L 10820.0009766 15135.1459399" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="10660.0 15135.1459399" freecad:basepoint2="10820.0009766 15135.1459399" freecad:dimpoint="10660.0 15035.1459399"/>
+<circle cx="10660.0" cy="15035.1459399" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="10820.0009766" cy="15035.1459399" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,10740.0004883,15055.1459399) translate(10740.0004883,15055.1459399) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 11020.0009766 15135.1459399 L 11020.0009766 15035.1459399 L 11180.0 15035.1459399 L 11180.0 15135.1459399" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="11020.0009766 15135.1459399" freecad:basepoint2="11180.0 15135.1459399" freecad:dimpoint="11020.0009766 15035.1459399"/>
+<circle cx="11020.0009766" cy="15035.1459399" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="11180.0" cy="15035.1459399" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,11100.0004883,15055.1459399) translate(11100.0004883,15055.1459399) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 3069.6622634 14735.1459399 L 3069.6622634 14735.1459399 L 3269.6622634 14735.1459399 L 3269.6622634 14735.1459399" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3069.6622634 14735.1459399" freecad:basepoint2="3269.6622634 14735.1459399" freecad:dimpoint="3069.6622634 14735.1459399"/>
+<circle cx="3069.6622634" cy="14735.1459399" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3269.6622634" cy="14735.1459399" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,3169.6622634,14755.1459399) translate(3169.6622634,14755.1459399) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 3269.6453938 15035.1459399 L 3269.64539317 15035.1571856 L 3429.64441637 15035.1661828 L 3429.644417 15035.1549372" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3269.6453938 15035.1459399" freecad:basepoint2="3429.644417 15035.1549372" freecad:dimpoint="3269.64539317 15035.1571856"/>
+<circle cx="3269.64539317" cy="15035.1571856" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3429.64441637" cy="15035.1661828" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(0.0032219116622,3349.64378011,15055.1616842) translate(3349.64378011,15055.1616842) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2909.6612868 15035.1571856 L 2909.6612868 15035.1571856 L 3069.6622634 15035.1571856 L 3069.6622634 15035.1571856" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2909.6612868 15035.1571856" freecad:basepoint2="3069.6622634 15035.1571856" freecad:dimpoint="2909.6612868 15035.1571856"/>
+<circle cx="2909.6612868" cy="15035.1571856" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3069.6622634" cy="15035.1571856" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,2989.6617751,15055.1571856) translate(2989.6617751,15055.1571856) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 5770.0009766 3074.8050254 L 5770.0009766 3074.8050254 L 5970.0009766 3074.8050254 L 5970.0009766 3074.8050254" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="5770.0009766 3074.8050254" freecad:basepoint2="5970.0009766 3074.8050254" freecad:dimpoint="5770.0009766 3074.8050254"/>
+<circle cx="5770.0009766" cy="3074.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="5970.0009766" cy="3074.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,5870.0009766,3094.8050254) translate(5870.0009766,3094.8050254) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 5610.0 3374.8050254 L 5610.0 3374.8050254 L 5770.0009766 3374.8050254 L 5770.0009766 3374.8050254" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="5610.0 3374.8050254" freecad:basepoint2="5770.0009766 3374.8050254" freecad:dimpoint="5610.0 3374.8050254"/>
+<circle cx="5610.0" cy="3374.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="5770.0009766" cy="3374.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,5690.0004883,3394.8050254) translate(5690.0004883,3394.8050254) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 5970.0009766 3374.8050254 L 5970.0009766 3374.8050254 L 6130.0 3374.8050254 L 6130.0 3374.8050254" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="5970.0009766 3374.8050254" freecad:basepoint2="6130.0 3374.8050254" freecad:dimpoint="5970.0009766 3374.8050254"/>
+<circle cx="5970.0009766" cy="3374.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6130.0" cy="3374.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,6050.0004883,3394.8050254) translate(6050.0004883,3394.8050254) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 3070.0009766 3074.8050254 L 3070.0009766 3074.8050254 L 3270.0009766 3074.8050254 L 3270.0009766 3074.8050254" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3070.0009766 3074.8050254" freecad:basepoint2="3270.0009766 3074.8050254" freecad:dimpoint="3070.0009766 3074.8050254"/>
+<circle cx="3070.0009766" cy="3074.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3270.0009766" cy="3074.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,3170.0009766,3094.8050254) translate(3170.0009766,3094.8050254) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 3270.0009766 3374.8050254 L 3270.0009766 3374.8050254 L 3430.0 3374.8050254 L 3430.0 3374.8050254" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3270.0009766 3374.8050254" freecad:basepoint2="3430.0 3374.8050254" freecad:dimpoint="3270.0009766 3374.8050254"/>
+<circle cx="3270.0009766" cy="3374.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3430.0" cy="3374.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,3350.0004883,3394.8050254) translate(3350.0004883,3394.8050254) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2910.0 3374.8050254 L 2910.0 3374.8050254 L 3070.0009766 3374.8050254 L 3070.0009766 3374.8050254" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2910.0 3374.8050254" freecad:basepoint2="3070.0009766 3374.8050254" freecad:dimpoint="2910.0 3374.8050254"/>
+<circle cx="2910.0" cy="3374.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3070.0009766" cy="3374.8050254" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,2990.0004883,3394.8050254) translate(2990.0004883,3394.8050254) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 6630.0 8742.0001874 L 6730.0 8742.0001874 L 6730.0 8058.00018741 L 6630.0 8058.00018741" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6630.0 8742.0001874" freecad:basepoint2="6630.0 8058.00018741" freecad:dimpoint="6730.0 8742.0001874"/>
+<circle cx="6730.0" cy="8742.0001874" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6730.0" cy="8058.00018741" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6750.0,8400.00018741) translate(6750.0,8400.00018741) scale(1,-1) " freecad:skip="1">
+0.68 m</text>
+<path d="M 6630.0 8058.00030231 L 6730.0 8058.00032528 L 6730.0004173 6242.00032527 L 6630.0004173 6242.0003023" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6630.0 8058.00030231" freecad:basepoint2="6630.0004173 6242.0003023" freecad:dimpoint="6730.0 8058.00032528"/>
+<circle cx="6730.0" cy="8058.00032528" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6730.0004173" cy="6242.00032527" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-89.999985511,6750.00020865,7150.00032988) translate(6750.00020865,7150.00032988) scale(1,-1) " freecad:skip="1">
+1.82 m</text>
+<path d="M 6630.0004173 6242.0001874 L 6730.0004173 6242.0001874 L 6730.0004173 4334.6105957 L 6630.0004173 4334.6105957" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6630.0004173 6242.0001874" freecad:basepoint2="6630.0004173 4334.6105957" freecad:dimpoint="6730.0004173 6242.0001874"/>
+<circle cx="6730.0004173" cy="6242.0001874" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6730.0004173" cy="4334.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6750.0004173,5288.30539155) translate(6750.0004173,5288.30539155) scale(1,-1) " freecad:skip="1">
+1.91 m</text>
+<path d="M 6630.0004173 12684.9999471 L 6730.0004173 12684.9999365 L 6730.0 8742.0001239 L 6630.0 8742.00013448" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6630.0004173 12684.9999471" freecad:basepoint2="6630.0 8742.00013448" freecad:dimpoint="6730.0004173 12684.9999365"/>
+<circle cx="6730.0004173" cy="12684.9999365" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6730.0" cy="8742.0001239" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0000048297,6750.00020865,10713.5000281) translate(6750.00020865,10713.5000281) scale(1,-1) " freecad:skip="1">
+3.94 m</text>
+<path d="M 6630.0004173 4334.6105957 L 6730.0004173 4334.6105957 L 6730.0004173 3814.6105957 L 6630.0004173 3814.6105957" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6630.0004173 4334.6105957" freecad:basepoint2="6630.0004173 3814.6105957" freecad:dimpoint="6730.0004173 4334.6105957"/>
+<circle cx="6730.0004173" cy="4334.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6730.0004173" cy="3814.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6750.0004173,4074.6105957) translate(6750.0004173,4074.6105957) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 6330.00926966 12684.9994911 L 6430.00926966 12684.9992366 L 6430.00885236 12520.9993587 L 6330.00885236 12520.9996131" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.00926966 12684.9994911" freecad:basepoint2="6330.00885236 12520.9996131" freecad:dimpoint="6430.00926966 12684.9992366"/>
+<circle cx="6430.00926966" cy="12684.9992366" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.00885236" cy="12520.9993587" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0001448902,6450.00906101,12602.9992468) translate(6450.00906101,12602.9992468) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 6330.0 12521.0001221 L 6430.0 12521.0001221 L 6430.0 8742.0001874 L 6330.0 8742.0001874" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.0 12521.0001221" freecad:basepoint2="6330.0 8742.0001874" freecad:dimpoint="6430.0 12521.0001221"/>
+<circle cx="6430.0" cy="12521.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.0" cy="8742.0001874" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6450.0,10631.5001547) translate(6450.0,10631.5001547) scale(1,-1) " freecad:skip="1">
+3.78 m</text>
+<path d="M 6330.0 8742.0001874 L 6430.0 8742.0001874 L 6430.0 8550.0000327 L 6330.0 8550.0000327" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.0 8742.0001874" freecad:basepoint2="6330.0 8550.0000327" freecad:dimpoint="6430.0 8742.0001874"/>
+<circle cx="6430.0" cy="8742.0001874" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.0" cy="8550.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6450.0,8646.00011005) translate(6450.0,8646.00011005) scale(1,-1) " freecad:skip="1">
+0.19 m</text>
+<path d="M 6330.0 8549.99972753 L 6430.0 8549.99972753 L 6430.0 8250.0000327 L 6330.0 8250.0000327" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.0 8549.99972753" freecad:basepoint2="6330.0 8250.0000327" freecad:dimpoint="6430.0 8549.99972753"/>
+<circle cx="6430.0" cy="8549.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.0" cy="8250.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6450.0,8399.99988012) translate(6450.0,8399.99988012) scale(1,-1) " freecad:skip="1">
+0.30 m</text>
+<path d="M 6330.0 8250.0000327 L 6430.0 8250.0000327 L 6430.0 8058.00018741 L 6330.0 8058.00018741" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.0 8250.0000327" freecad:basepoint2="6330.0 8058.00018741" freecad:dimpoint="6430.0 8250.0000327"/>
+<circle cx="6430.0" cy="8250.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.0" cy="8058.00018741" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6450.0,8154.00011006) translate(6450.0,8154.00011006) scale(1,-1) " freecad:skip="1">
+0.19 m</text>
+<path d="M 6330.0 8058.00018741 L 6430.0 8058.00018741 L 6430.0 6242.0001874 L 6330.0 6242.0001874" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.0 8058.00018741" freecad:basepoint2="6330.0 6242.0001874" freecad:dimpoint="6430.0 8058.00018741"/>
+<circle cx="6430.0" cy="8058.00018741" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.0" cy="6242.0001874" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6450.0,7150.00018741) translate(6450.0,7150.00018741) scale(1,-1) " freecad:skip="1">
+1.82 m</text>
+<path d="M 6330.0 6242.0001874 L 6430.0 6242.0001874 L 6430.0 6050.0000327 L 6330.0 6050.0000327" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.0 6242.0001874" freecad:basepoint2="6330.0 6050.0000327" freecad:dimpoint="6430.0 6242.0001874"/>
+<circle cx="6430.0" cy="6242.0001874" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.0" cy="6050.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6450.0,6146.00011005) translate(6450.0,6146.00011005) scale(1,-1) " freecad:skip="1">
+0.19 m</text>
+<path d="M 6330.0 6050.0000327 L 6430.0 6050.0000327 L 6430.0 5750.0000327 L 6330.0 5750.0000327" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.0 6050.0000327" freecad:basepoint2="6330.0 5750.0000327" freecad:dimpoint="6430.0 6050.0000327"/>
+<circle cx="6430.0" cy="6050.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.0" cy="5750.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6450.0,5900.0000327) translate(6450.0,5900.0000327) scale(1,-1) " freecad:skip="1">
+0.30 m</text>
+<path d="M 6330.0 5750.0 L 6430.0 5750.0 L 6430.0 4334.6105957 L 6330.0 4334.6105957" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6330.0 5750.0" freecad:basepoint2="6330.0 4334.6105957" freecad:dimpoint="6430.0 5750.0"/>
+<circle cx="6430.0" cy="5750.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6430.0" cy="4334.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6450.0,5042.30529785) translate(6450.0,5042.30529785) scale(1,-1) " freecad:skip="1">
+1.42 m</text>
+<path d="M 7030.0004173 4174.6103232 L 7030.0004173 4174.6103232 L 7030.0004173 3974.6103232 L 7030.0004173 3974.6103232" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="7030.0004173 4174.6103232" freecad:basepoint2="7030.0004173 3974.6103232" freecad:dimpoint="7030.0004173 4174.6103232"/>
+<circle cx="7030.0004173" cy="4174.6103232" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="7030.0004173" cy="3974.6103232" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,7050.0004173,4074.6103232) translate(7050.0004173,4074.6103232) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 7330.0004173 3974.6103232 L 7330.0004173 3974.6103232 L 7330.0004173 3814.6105957 L 7330.0004173 3814.6105957" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="7330.0004173 3974.6103232" freecad:basepoint2="7330.0004173 3814.6105957" freecad:dimpoint="7330.0004173 3974.6103232"/>
+<circle cx="7330.0004173" cy="3974.6103232" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="7330.0004173" cy="3814.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,7350.0004173,3894.61045945) translate(7350.0004173,3894.61045945) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 7330.0004173 4334.6105957 L 7330.0004173 4334.6105957 L 7330.0004173 4174.6103232 L 7330.0004173 4174.6103232" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="7330.0004173 4334.6105957" freecad:basepoint2="7330.0004173 4174.6103232" freecad:dimpoint="7330.0004173 4334.6105957"/>
+<circle cx="7330.0004173" cy="4334.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="7330.0004173" cy="4174.6103232" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,7350.0004173,4254.61045945) translate(7350.0004173,4254.61045945) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 1695.0348714 4835.0 L 1595.0348714 4835.0 L 1595.0348714 4315.0 L 1695.0348714 4315.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1695.0348714 4835.0" freecad:basepoint2="1695.0348714 4315.0" freecad:dimpoint="1595.0348714 4835.0"/>
+<circle cx="1595.0348714" cy="4835.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1595.0348714" cy="4315.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1615.0348714,4575.0) translate(1615.0348714,4575.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 1995.03311353 4674.99728599 L 1895.03311354 4674.99679769 L 1895.03409014 4474.99679769 L 1995.03409013 4474.99728599" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1995.03311353 4674.99728599" freecad:basepoint2="1995.03409013 4474.99728599" freecad:dimpoint="1895.03311354 4674.99679769"/>
+<circle cx="1895.03311354" cy="4674.99679769" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1895.03409014" cy="4474.99679769" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-89.999719879,1915.03360184,4574.99689535) translate(1915.03360184,4574.99689535) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 2295.03352859 4834.99877924 L 2195.03352859 4834.99816887 L 2195.03450519 4674.99789637 L 2295.03450519 4674.99850674" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2295.03352859 4834.99877924" freecad:basepoint2="2295.03450519 4674.99850674" freecad:dimpoint="2195.03352859 4834.99816887"/>
+<circle cx="2195.03352859" cy="4834.99816887" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2195.03450519" cy="4674.99789637" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-89.9996522635,2215.03401689,4754.99815469) translate(2215.03401689,4754.99815469) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2295.03584801 4475.00094825 L 2195.03584801 4475.00155863 L 2195.03487141 4315.00183113 L 2295.03487141 4315.00122075" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2295.03584801 4475.00094825" freecad:basepoint2="2295.03487141 4315.00122075" freecad:dimpoint="2195.03584801 4475.00155863"/>
+<circle cx="2195.03584801" cy="4475.00155863" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2195.03487141" cy="4315.00183113" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0003477365,2215.03535971,4395.0015728) translate(2215.03535971,4395.0015728) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 1620.0 6835.0 L 1595.0348714 6835.0 L 1595.0348714 6315.0 L 1620.0 6315.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1620.0 6835.0" freecad:basepoint2="1620.0 6315.0" freecad:dimpoint="1595.0348714 6835.0"/>
+<circle cx="1595.0348714" cy="6835.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1595.0348714" cy="6315.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1615.0348714,6575.0) translate(1615.0348714,6575.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 1995.0331135 6674.9997275 L 1895.0331135 6674.9997275 L 1895.0331135 6474.9997275 L 1995.0331135 6474.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1995.0331135 6674.9997275" freecad:basepoint2="1995.0331135 6474.9997275" freecad:dimpoint="1895.0331135 6674.9997275"/>
+<circle cx="1895.0331135" cy="6674.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1895.0331135" cy="6474.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1915.0331135,6574.9997275) translate(1915.0331135,6574.9997275) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 2291.56470318 6473.69124107 L 2191.56492725 6473.47954544 L 2191.90364045 6313.47981794 L 2291.90341638 6313.69151357" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2291.56470318 6473.69124107" freecad:basepoint2="2291.90341638 6313.69151357" freecad:dimpoint="2191.56492725 6473.47954544"/>
+<circle cx="2191.56492725" cy="6473.47954544" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2191.90364045" cy="6313.47981794" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-89.8787075722,2211.73423904,6393.52202081) translate(2211.73423904,6393.52202081) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2291.9036405 6835.0 L 2191.9036405 6835.0 L 2191.9036405 6674.9997275 L 2291.9036405 6674.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2291.9036405 6835.0" freecad:basepoint2="2291.9036405 6674.9997275" freecad:dimpoint="2191.9036405 6835.0"/>
+<circle cx="2191.9036405" cy="6835.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2191.9036405" cy="6674.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,2211.9036405,6754.99986375) translate(2211.9036405,6754.99986375) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 1720.0 9935.00000004 L 1620.0 9935.00000004 L 1620.0 9415.00000004 L 1720.0 9415.00000004" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1720.0 9935.00000004" freecad:basepoint2="1720.0 9415.00000004" freecad:dimpoint="1620.0 9935.00000004"/>
+<circle cx="1620.0" cy="9935.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1620.0" cy="9415.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1640.0,9675.00000004) translate(1640.0,9675.00000004) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 1995.0331135 9774.99972753 L 1895.0331135 9774.99972753 L 1895.0331135 9574.99972753 L 1995.0331135 9574.99972753" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1995.0331135 9774.99972753" freecad:basepoint2="1995.0331135 9574.99972753" freecad:dimpoint="1895.0331135 9774.99972753"/>
+<circle cx="1895.0331135" cy="9774.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1895.0331135" cy="9574.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1915.0331135,9674.99972753) translate(1915.0331135,9674.99972753) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 2291.9036405 9574.99972753 L 2191.9036405 9574.99972753 L 2191.9036405 9415.00000004 L 2291.9036405 9415.00000004" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2291.9036405 9574.99972753" freecad:basepoint2="2291.9036405 9415.00000004" freecad:dimpoint="2191.9036405 9574.99972753"/>
+<circle cx="2191.9036405" cy="9574.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2191.9036405" cy="9415.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,2211.9036405,9494.99986379) translate(2211.9036405,9494.99986379) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2291.9036405 9935.00000004 L 2191.9036405 9935.00000004 L 2191.9036405 9774.99972753 L 2291.9036405 9774.99972753" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2291.9036405 9935.00000004" freecad:basepoint2="2291.9036405 9774.99972753" freecad:dimpoint="2191.9036405 9935.00000004"/>
+<circle cx="2191.9036405" cy="9935.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2191.9036405" cy="9774.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,2211.9036405,9854.99986379) translate(2211.9036405,9854.99986379) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 1520.0 13205.0 L 1620.0 13205.0 L 1620.0 12685.0 L 1520.0 12685.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1520.0 13205.0" freecad:basepoint2="1520.0 12685.0" freecad:dimpoint="1620.0 13205.0"/>
+<circle cx="1620.0" cy="13205.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1620.0" cy="12685.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1640.0,12945.0) translate(1640.0,12945.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 1995.0331135 13044.9997275 L 1895.0331135 13044.9997275 L 1895.0331135 12844.9997275 L 1995.0331135 12844.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1995.0331135 13044.9997275" freecad:basepoint2="1995.0331135 12844.9997275" freecad:dimpoint="1895.0331135 13044.9997275"/>
+<circle cx="1895.0331135" cy="13044.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1895.0331135" cy="12844.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1915.0331135,12944.9997275) translate(1915.0331135,12944.9997275) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 2291.9036405 13205.0 L 2191.9036405 13205.0 L 2191.9036405 13044.9997275 L 2291.9036405 13044.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2291.9036405 13205.0" freecad:basepoint2="2291.9036405 13044.9997275" freecad:dimpoint="2191.9036405 13205.0"/>
+<circle cx="2191.9036405" cy="13205.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2191.9036405" cy="13044.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,2211.9036405,13124.9998638) translate(2211.9036405,13124.9998638) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2291.9036405 12844.9997275 L 2191.9036405 12844.9997275 L 2191.9036405 12685.0 L 2291.9036405 12685.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2291.9036405 12844.9997275" freecad:basepoint2="2291.9036405 12685.0" freecad:dimpoint="2191.9036405 12844.9997275"/>
+<circle cx="2191.9036405" cy="12844.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2191.9036405" cy="12685.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,2211.9036405,12764.9998638) translate(2211.9036405,12764.9998638) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 1620.0 8585.00000004 L 1595.0348714 8585.00000004 L 1595.0348714 8065.00000004 L 1620.0 8065.00000004" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1620.0 8585.00000004" freecad:basepoint2="1620.0 8065.00000004" freecad:dimpoint="1595.0348714 8585.00000004"/>
+<circle cx="1595.0348714" cy="8585.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1595.0348714" cy="8065.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1615.0348714,8325.00000004) translate(1615.0348714,8325.00000004) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 1795.0331135 8424.99972753 L 1895.0331135 8424.99972753 L 1895.0331135 8224.99972753 L 1795.0331135 8224.99972753" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1795.0331135 8424.99972753" freecad:basepoint2="1795.0331135 8224.99972753" freecad:dimpoint="1895.0331135 8424.99972753"/>
+<circle cx="1895.0331135" cy="8424.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1895.0331135" cy="8224.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1915.0331135,8324.99972753) translate(1915.0331135,8324.99972753) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 2290.1495707 8586.31219482 L 2190.14979477 8586.52388974 L 2189.81108157 8426.52361723 L 2289.8108575 8426.31192231" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2290.1495707 8586.31219482" freecad:basepoint2="2289.8108575 8426.31192231" freecad:dimpoint="2190.14979477 8586.52388974"/>
+<circle cx="2190.14979477" cy="8586.52388974" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2189.81108157" cy="8426.52361723" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.1212924278,2209.98039336,8506.4814145) translate(2209.98039336,8506.4814145) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2091.9036405 8224.99972753 L 2191.9036405 8224.99972753 L 2191.9036405 8065.00000004 L 2091.9036405 8065.00000004" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2091.9036405 8224.99972753" freecad:basepoint2="2091.9036405 8065.00000004" freecad:dimpoint="2191.9036405 8224.99972753"/>
+<circle cx="2191.9036405" cy="8224.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2191.9036405" cy="8065.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,2211.9036405,8144.99986379) translate(2211.9036405,8144.99986379) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2495.035848 5035.0 L 2495.035848 5135.0 L 2910.0 5135.0 L 2910.0 5035.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2495.035848 5035.0" freecad:basepoint2="2910.0 5035.0" freecad:dimpoint="2495.035848 5135.0"/>
+<circle cx="2495.035848" cy="5135.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2910.0" cy="5135.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,2702.517924,5155.0) translate(2702.517924,5155.0) scale(1,-1) " freecad:skip="1">
+0.41 m</text>
+<path d="M 2495.035848 5335.0 L 2495.035848 5435.0 L 3070.0009766 5435.0 L 3070.0009766 5335.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2495.035848 5335.0" freecad:basepoint2="3070.0009766 5335.0" freecad:dimpoint="2495.035848 5435.0"/>
+<circle cx="2495.035848" cy="5435.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3070.0009766" cy="5435.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,2782.5184123,5455.0) translate(2782.5184123,5455.0) scale(1,-1) " freecad:skip="1">
+0.57 m</text>
+<path d="M 4520.0 3814.6105957 L 4520.0 3814.6105957 L 4520.0 2335.0 L 4520.0 2335.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="4520.0 3814.6105957" freecad:basepoint2="4520.0 2335.0" freecad:dimpoint="4520.0 3814.6105957"/>
+<circle cx="4520.0" cy="3814.6105957" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="4520.0" cy="2335.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,4540.0,3074.80529785) translate(4540.0,3074.80529785) scale(1,-1) " freecad:skip="1">
+1.48 m</text>
+<path d="M 1620.0 2335.0 L 1595.0348714 2335.0 L 1595.0348714 1815.0 L 1620.0 1815.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1620.0 2335.0" freecad:basepoint2="1620.0 1815.0" freecad:dimpoint="1595.0348714 2335.0"/>
+<circle cx="1595.0348714" cy="2335.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1595.0348714" cy="1815.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1615.0348714,2075.0) translate(1615.0348714,2075.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 1795.0340901 2174.9997275 L 1895.0340901 2174.9997275 L 1895.0340901 1974.9997275 L 1795.0340901 1974.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="1795.0340901 2174.9997275" freecad:basepoint2="1795.0340901 1974.9997275" freecad:dimpoint="1895.0340901 2174.9997275"/>
+<circle cx="1895.0340901" cy="2174.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="1895.0340901" cy="1974.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,1915.0340901,2074.9997275) translate(1915.0340901,2074.9997275) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 2295.0348714 2335.0 L 2195.0348714 2335.0 L 2195.0348714 2174.9997275 L 2295.0348714 2174.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2295.0348714 2335.0" freecad:basepoint2="2295.0348714 2174.9997275" freecad:dimpoint="2195.0348714 2335.0"/>
+<circle cx="2195.0348714" cy="2335.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2195.0348714" cy="2174.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,2215.0348714,2254.99986375) translate(2215.0348714,2254.99986375) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 2295.0348714 1974.9997275 L 2195.0348714 1974.9997275 L 2195.0348714 1815.0 L 2295.0348714 1815.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="2295.0348714 1974.9997275" freecad:basepoint2="2295.0348714 1815.0" freecad:dimpoint="2195.0348714 1974.9997275"/>
+<circle cx="2195.0348714" cy="1974.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2195.0348714" cy="1815.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,2215.0348714,1894.99986375) translate(2215.0348714,1894.99986375) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M -190.0 7770.00006105 L -190.0 7770.00006105 L 330.0 7770.00006105 L 330.0 7770.00006105" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-190.0 7770.00006105" freecad:basepoint2="330.0 7770.00006105" freecad:dimpoint="-190.0 7770.00006105"/>
+<circle cx="-190.0" cy="7770.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="330.0" cy="7770.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,70.0,7790.00006105) translate(70.0,7790.00006105) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M -29.9990234 7370.00006105 L -29.9990234 7470.00006105 L 170.0009766 7470.00006105 L 170.0009766 7370.00006105" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-29.9990234 7370.00006105" freecad:basepoint2="170.0009766 7370.00006105" freecad:dimpoint="-29.9990234 7470.00006105"/>
+<circle cx="-29.9990234" cy="7470.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="170.0009766" cy="7470.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,70.0009766,7490.00006105) translate(70.0009766,7490.00006105) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M -190.0 7270.00006105 L -190.0 7170.00006105 L -29.9990234 7170.00006105 L -29.9990234 7270.00006105" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="-190.0 7270.00006105" freecad:basepoint2="-29.9990234 7270.00006105" freecad:dimpoint="-190.0 7170.00006105"/>
+<circle cx="-190.0" cy="7170.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="-29.9990234" cy="7170.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,-109.9995117,7190.00006105) translate(-109.9995117,7190.00006105) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 170.0009766 7070.00006105 L 170.0009766 7170.00006105 L 330.0 7170.00006105 L 330.0 7070.00006105" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="170.0009766 7070.00006105" freecad:basepoint2="330.0 7070.00006105" freecad:dimpoint="170.0009766 7170.00006105"/>
+<circle cx="170.0009766" cy="7170.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="330.0" cy="7170.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,250.0004883,7190.00006105) translate(250.0004883,7190.00006105) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 4260.0 11310.0 L 4260.0 11310.0 L 4780.0 11310.0 L 4780.0 11310.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="4260.0 11310.0" freecad:basepoint2="4780.0 11310.0" freecad:dimpoint="4260.0 11310.0"/>
+<circle cx="4260.0" cy="11310.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="4780.0" cy="11310.0" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,4520.0,11330.0) translate(4520.0,11330.0) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 4420.0009766 10909.9997275 L 4420.0009766 11009.9997275 L 4620.0009766 11009.9997275 L 4620.0009766 10909.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="4420.0009766 10909.9997275" freecad:basepoint2="4620.0009766 10909.9997275" freecad:dimpoint="4420.0009766 11009.9997275"/>
+<circle cx="4420.0009766" cy="11009.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="4620.0009766" cy="11009.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,4520.0009766,11029.9997275) translate(4520.0009766,11029.9997275) scale(1,-1) " freecad:skip="1">
+0.20 m</text>
+<path d="M 4260.0 10609.9997275 L 4260.0 10709.9997275 L 4420.0009766 10709.9997275 L 4420.0009766 10609.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="4260.0 10609.9997275" freecad:basepoint2="4420.0009766 10609.9997275" freecad:dimpoint="4260.0 10709.9997275"/>
+<circle cx="4260.0" cy="10709.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="4420.0009766" cy="10709.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,4340.0004883,10729.9997275) translate(4340.0004883,10729.9997275) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 4619.99746801 10609.9995572 L 4619.99729769 10709.9995572 L 4779.99632109 10709.9998297 L 4779.99649141 10609.9998297" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="4619.99746801 10609.9995572" freecad:basepoint2="4779.99649141 10609.9998297" freecad:dimpoint="4619.99729769 10709.9995572"/>
+<circle cx="4619.99729769" cy="10709.9995572" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="4779.99632109" cy="10709.9998297" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(9.75844977009e-05,4699.99677533,10729.9996934) translate(4699.99677533,10729.9996934) scale(1,-1) " freecad:skip="1">
+0.16 m</text>
+<path d="M 29763.3828125 7670.01890276 L 29763.3828125 7770.00006105 L 28933.3828125 7770.00006105 L 28933.3828125 7670.01890276" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="29763.3828125 7670.01890276" freecad:basepoint2="28933.3828125 7670.01890276" freecad:dimpoint="29763.3828125 7770.00006105"/>
+<circle cx="29763.3828125" cy="7770.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="28933.3828125" cy="7770.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-180.0,29348.3828125,7750.00006105) translate(29348.3828125,7750.00006105) scale(1,-1) " freecad:skip="1">
+0.83 m</text>
+<path d="M 4260.0 7870.00006105 L 4260.0 7770.00006105 L 4780.0 7770.00006105 L 4780.0 7870.00006105" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="4260.0 7870.00006105" freecad:basepoint2="4780.0 7870.00006105" freecad:dimpoint="4260.0 7770.00006105"/>
+<circle cx="4260.0" cy="7770.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="4780.0" cy="7770.00006105" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,4520.0,7790.00006105) translate(4520.0,7790.00006105) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 4780.0 7870.0000327 L 4780.0 7770.0000327 L 5610.0 7770.0000327 L 5610.0 7870.0000327" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="4780.0 7870.0000327" freecad:basepoint2="5610.0 7870.0000327" freecad:dimpoint="4780.0 7770.0000327"/>
+<circle cx="4780.0" cy="7770.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="5610.0" cy="7770.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,5195.0,7790.0000327) translate(5195.0,7790.0000327) scale(1,-1) " freecad:skip="1">
+0.83 m</text>
+<path d="M 3960.00000001 9415.00000004 L 3960.00000001 9415.00000004 L 3959.61718751 8058.0000327 L 3959.61718751 8058.0000327" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3960.00000001 9415.00000004" freecad:basepoint2="3959.61718751 8058.0000327" freecad:dimpoint="3960.00000001 9415.00000004"/>
+<circle cx="3960.00000001" cy="9415.00000004" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3959.61718751" cy="8058.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0161600863,3979.80859297,8736.49437433) translate(3979.80859297,8736.49437433) scale(1,-1) " freecad:skip="1">
+1.36 m</text>
+<path d="M 5610.0 7870.0000327 L 5610.0 7770.0000327 L 6130.0 7770.0000327 L 6130.0 7870.0000327" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="5610.0 7870.0000327" freecad:basepoint2="6130.0 7870.0000327" freecad:dimpoint="5610.0 7770.0000327"/>
+<circle cx="5610.0" cy="7770.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6130.0" cy="7770.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,5870.0,7790.0000327) translate(5870.0,7790.0000327) scale(1,-1) " freecad:skip="1">
+0.52 m</text>
+<path d="M 3760.00000001 9574.99972753 L 3660.00000001 9574.99972753 L 3660.00000001 8058.00018741 L 3760.00000001 8058.00018741" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="3760.00000001 9574.99972753" freecad:basepoint2="3760.00000001 8058.00018741" freecad:dimpoint="3660.00000001 9574.99972753"/>
+<circle cx="3660.00000001" cy="9574.99972753" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="3660.00000001" cy="8058.00018741" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,3680.00000001,8816.49995747) translate(3680.00000001,8816.49995747) scale(1,-1) " freecad:skip="1">
+1.52 m</text>
+<path d="M 330.0 11310.0 L 330.0 11309.9997275 L 4260.0 11309.9997275 L 4260.0 11310.0" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="330.0 11310.0" freecad:basepoint2="4260.0 11310.0" freecad:dimpoint="330.0 11309.9997275"/>
+<circle cx="330.0" cy="11309.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="4260.0" cy="11309.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,2295.0,11329.9997275) translate(2295.0,11329.9997275) scale(1,-1) " freecad:skip="1">
+3.93 m</text>
+<path d="M 330.0 5849.9997275 L 330.0 5749.9997275 L 2910.0 5749.9997275 L 2910.0 5849.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="330.0 5849.9997275" freecad:basepoint2="2910.0 5849.9997275" freecad:dimpoint="330.0 5749.9997275"/>
+<circle cx="330.0" cy="5749.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2910.0" cy="5749.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,1620.0,5769.9997275) translate(1620.0,5769.9997275) scale(1,-1) " freecad:skip="1">
+2.58 m</text>
+<path d="M 4780.0 11209.9997275 L 4780.0 11309.9997275 L 10660.0 11309.9997275 L 10660.0 11209.9997275" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="4780.0 11209.9997275" freecad:basepoint2="10660.0 11209.9997275" freecad:dimpoint="4780.0 11309.9997275"/>
+<circle cx="4780.0" cy="11309.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="10660.0" cy="11309.9997275" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,7720.0,11329.9997275) translate(7720.0,11329.9997275) scale(1,-1) " freecad:skip="1">
+5.88 m</text>
+<path d="M 330.0 4075.0000327 L 330.0 3975.0000327 L 2495.0348714 3975.0000327 L 2495.0348714 4075.0000327" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="330.0 4075.0000327" freecad:basepoint2="2495.0348714 4075.0000327" freecad:dimpoint="330.0 3975.0000327"/>
+<circle cx="330.0" cy="3975.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="2495.0348714" cy="3975.0000327" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-0.0,1412.5174357,3995.0000327) translate(1412.5174357,3995.0000327) scale(1,-1) " freecad:skip="1">
+2.17 m</text>
+<path d="M 6630.0004173 15665.1602706 L 6730.0004173 15665.1602706 L 6730.0004173 13205.0001221 L 6630.0004173 13205.0001221" fill="none" stroke="#000000" stroke-width="3.0 px" style="stroke-width:3.0;stroke-miterlimit:4;stroke-dasharray:none" freecad:basepoint1="6630.0004173 15665.1602706" freecad:basepoint2="6630.0004173 13205.0001221" freecad:dimpoint="6730.0004173 15665.1602706"/>
+<circle cx="6730.0004173" cy="15665.1602706" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<circle cx="6730.0004173" cy="13205.0001221" r="13.3333333333" fill="#000000" stroke="none" style="stroke-miterlimit:4;stroke-dasharray:none" freecad:skip="1"/>
+<text fill="#000000" font-size="75.0" style="text-anchor:middle;text-align:center;font-family:Arial" transform="rotate(-90.0,6750.0004173,14435.0801963) translate(6750.0004173,14435.0801963) scale(1,-1) " freecad:skip="1">
+2.46 m</text>
+</g>
+
+
+</svg>
+
